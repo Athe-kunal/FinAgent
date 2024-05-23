@@ -27,6 +27,6 @@ def get_agents(sec_tools_list,earnings_calls_tools_list):
         tools = earnings_calls_tools_list,
         llm = ChatOpenAI(model="gpt-3.5-turbo-0125")        
     )
-    return earnings_call_transcripts_agent, sec_filings_agent
+    return sec_filings_agent, earnings_call_transcripts_agent
 
 
