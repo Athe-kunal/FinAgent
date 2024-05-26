@@ -2,6 +2,7 @@ from src.vectorDatabaseDocker import create_database
 from src.queryDatabase import query_database_earnings_call,query_database_sec
 from functools import partial
 from crewai_tools import tool
+from books_db import load_database
 
 def build_database_and_query(ticker:str, year:str):
     (
@@ -16,7 +17,6 @@ def build_database_and_query(ticker:str, year:str):
     ) = create_database(ticker=ticker, year=int(float(year)))
     query_sec = partial(query_database_sec,qdrant_client=qdrant_client,encoder=encoder)
     query_earnings_call = partial(query_database_earnings_call,qdrant_client=qdrant_client,encoder=encoder)
-
     sec_tools_list = []
     for sec_form in sec_form_names:
         if "10-K" in sec_form:
@@ -52,4 +52,15 @@ def build_database_and_query(ticker:str, year:str):
                 return query_earnings_call(question=question,quarter=quarter,speakers_list=speaker_list)
             # sec_tools.update({sec_form:yearly_tool})
             earnings_calls_tools_list.append(earnings_call_tool)
-    return sec_tools_list,earnings_calls_tools_list
+    books_database = load_database()
+    @tool(f"Financial and Valuation Books")
+    def books_tool(question:str)->str:
+        """
+        This tool will fetch relevant documents from financial and valuation books to answer questions regarding the financial and valuation techniques. These are financial text books
+        written by industry experts about finance and valuations
+        """
+        relevant_langchain_docs = books_database.search(question)
+        relevant_text = [d.page_content for d in relevant_langchain_docs]
+        return "\n\n".join(relevant_text)
+    
+    return sec_tools_list,earnings_calls_tools_list,[books_tool]

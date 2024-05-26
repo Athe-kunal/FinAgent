@@ -1,0 +1,5185 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Valuation Measuring and Managing the Value of Companies",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Contents",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "About the Authors",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 10,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Preface",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 12,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Acknowledgments",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 16,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Part One. Foundations of Value",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 9,
+            "page_index": 20,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "1. Why Value Value?",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 6,
+            "page_index": 22,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "What Does It Mean to Create Shareholder Value?",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 24,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Short-Termism Runs Deep",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 25,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Shareholder Capitalism Cannot Solve Every Challenge",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 28,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Can Stakeholder Interests Be Reconciled?",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 30,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Consequences of Forgetting Value-Creation Principles",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 33,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "This Book",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 34,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "2. Finance in a Nutshell",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 6,
+            "page_index": 36,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The Early Years",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 36,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "A New Concept",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 38,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Should Lily and Nate Try to Maximize ROIC?",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 39,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Going Public",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 40,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Expansion into Related Formats",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 43,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Some Lessons",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 44,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "3. Fundamental Principles of Value Creation",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 8,
+            "page_index": 46,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The Relationship of Growth, ROIC, and Cash Flow",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 48,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Balancing ROIC and Growth to Create Value",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 53,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Some Examples",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 54,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Implications for Managers",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 55,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Economic Profit Combines ROIC and Size",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 59,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Conservation of Value",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 61,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Conserving Value: A Brief History",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 62,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "A Tool for Managers",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 63,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The Math of Value Creation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 68,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Summary",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 72,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "4. Risk and the Cost of Capital",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 6,
+            "page_index": 74,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Cost of Capital Is an Opportunity Cost",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 75,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Companies Have Little Control over Their Cost of Capital",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 76,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Create Better Forecasts, Not Ad Hoc Risk Premiums",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 78,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Decide How Much Cash Flow Risk to Take On",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 82,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Decide Which Types of Risk to Hedge",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 85,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Summary",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 86,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "5. The Alchemy of Stock Market Performance",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 5,
+            "page_index": 88,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Why Shareholder Expectations Become a Treadmill",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 89,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The Treadmill\u2019s Real-World Effects",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 91,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Decomposing TSR",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 93,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Understanding Expectations",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 99,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Implications for Managers",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 100,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "6. Valuation of ESG and Digital Initiatives",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 102,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "A Common Framework",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 103,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Environmental, Social, and Governance (ESG) Concerns",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 5,
+            "page_index": 103,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Revenue Growth",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 105,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Cost Reductions",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 106,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Reduced Regulatory and Legal Interventions",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 107,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Employee Productivity Uplift",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 108,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Investment and Asset Optimization",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 109,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Digital Initiatives",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 110,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Measuring the Value of Digitization",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 110,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Paths to Improved Performance",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 111,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Closing Thoughts",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 116,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "7. The Stock Market Is Smarter Than You Think",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 9,
+            "page_index": 118,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Markets and Fundamentals: A Model",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 119,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Markets and Fundamentals: The Evidence",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 121,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Decades of Consistent Returns",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 122,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "P/E Fundamentals",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 123,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Higher Returns, Higher Value",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 125,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Deviations from Fundamentals",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 127,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Myths about Earnings",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 5,
+            "page_index": 129,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "EPS Growth from Share Repurchases",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 130,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Earnings from Mergers and Acquisitions",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 131,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Write-Downs",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 131,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Employee Stock Options",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 132,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Different Accounting Standards",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 133,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Myths about Earnings Management",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 134,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Earnings Volatility",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 134,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Meeting Consensus Earnings Estimates",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 136,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Earnings Guidance",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 136,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Myths about Diversification",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 137,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Myths about Company Size",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 138,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Myths about Market Mechanics",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 139,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Index Membership",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 139,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Cross-Listing",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 140,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Stock Splits",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 142,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Myths about Value Distribution",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 144,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Summary",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 144,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "8. Return on Invested Capital",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 5,
+            "page_index": 146,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "What Drives ROIC?",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 147,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Competitive Advantage",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 150,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Price Premium Advantages",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 151,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Cost and Capital Efficiency Advantages",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 154,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Network Economies",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 157,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Sustaining Return on Invested Capital",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 158,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Length of Product Life Cycle",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 158,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Persistence of Competitive Advantage",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 159,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Potential for Product Renewal",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 159,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "An Empirical Analysis of Returns on Invested Capital",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 160,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "ROIC Trends and Drivers",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 161,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "ROIC by Industry",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 163,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Stability of ROIC",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 167,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Effect of Acquisitions on ROIC",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 171,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Summary",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 172,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "9. Growth",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 5,
+            "page_index": 174,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Drivers of Revenue Growth",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 175,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Growth and Value Creation",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 177,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "A Hierarchy of Growth Scenarios",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 178,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Choosing a Growth Strategy",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 182,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Why Sustaining Growth Is Hard",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 182,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Empirical Analysis of Corporate Growth",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 186,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Growth Trends",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 187,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Growth across Industries",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 188,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Sustaining Growth",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 190,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Summary",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 192,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Part Two. Core Valuation Techniques",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 10,
+            "page_index": 194,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "10. Frameworks for Valuation",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 8,
+            "page_index": 196,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Enterprise Discounted Cash Flow Model",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 197,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Valuing Operations",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 200,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Identifying and Valuing Nonoperating Assets",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 208,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Identifying and Valuing Debt and Other Nonequity Claims",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 208,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Valuing Equity",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 210,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Economic Profit-Based Valuation Models",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 210,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Adjusted-Present-Value Model",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 214,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Valuing Free Cash Flow at Unlevered Cost of Equity",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 215,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Valuing Tax Shields and Other Capital Structure Effects",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 217,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Capital Cash Flow Model",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 218,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Cash-Flow-to-Equity Valuation Model",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 219,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Problematic Modifications to Discounted Cash Flow",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 221,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Alternatives to Discounted Cash Flow",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 222,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Multiples",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 222,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Real Options and Replicating Portfolios",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 222,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Summary",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 223,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "11. Reorganizing the Financial Statements",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 224,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Reorganizing the Accounting Statements: Key Concepts",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 224,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Invested Capital: Key Concepts",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 225,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Net Operating Profit after Taxes: Key Concepts",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 227,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Free Cash Flow: Key Concepts",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 228,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Reorganizing the Accounting Statements: In Practice",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 8,
+            "page_index": 229,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Invested Capital: In Practice",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 230,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Computing Total Funds Invested",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 235,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Reconciling Total Funds Invested",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 237,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Calculating NOPAT",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 240,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Reconciliation to Net Income",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 246,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Free Cash Flow: In Practice",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 246,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Cash Flow Available to Investors",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 251,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Reconciling Cash Flow Available to Investors",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 251,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Advanced Issues",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 252,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Operating Leases",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 253,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Retirement Obligations Such as Pensions",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 255,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Capitalized Research and Development",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 256,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Other Advanced Adjustments",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 256,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "12. Analyzing Performance",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 258,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Analyzing Returns on Invested Capital",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 258,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Analyzing ROIC with and without Goodwill and Acquired Intangibles",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 260,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Decomposing ROIC to Develop an Integrated Perspective of Company Economics",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 261,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Analyzing Revenue Growth",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 266,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Currency Effects",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 267,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Mergers and Acquisitions",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 268,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Accounting Changes and Irregularities",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 270,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Decomposing Revenue Growth to Develop an Integrated Perspective of Growth Drivers",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 270,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Credit Health and Capital Structure",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 272,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Measuring Liquidity Using Coverage Ratios",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 273,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Measuring Leverage",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 274,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Payout Ratio",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 275,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Valuation Metrics",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 276,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "General Considerations",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 277,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "13. Forecasting Performance",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 5,
+            "page_index": 278,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Determine the Forecast\u2019s Length and Detail",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 278,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Components of a Good Model",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 279,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Mechanics of Forecasting",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 6,
+            "page_index": 281,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Step 1: Prepare and Analyze Historical Financials",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 282,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Step 2: Build the Revenue Forecast",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 284,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Step 3: Forecast the Income Statement",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 286,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Step 4: Forecast the Balance Sheet: Invested Capital and Nonoperating Assets",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 292,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Step 5: Reconcile the Balance Sheet with Investor Funds",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 297,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Step 6: Calculate ROIC and FCF",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 300,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Advanced Forecasting",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 300,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Nonfinancial Operating Drivers",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 300,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Fixed versus Variable Costs",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 301,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Incorporating Inflation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 302,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Concluding Thoughts",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 303,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "14. Estimating Continuing Value",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 6,
+            "page_index": 304,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Recommended Formula for DCF Valuation",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 1,
+            "page_index": 305,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Two-Stage Continuing-Value Models",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 308,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Continuing Value Using Economic Profit",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 308,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Misunderstandings about Continuing Value",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 310,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Why Forecast Length Doesn\u2019t Affect a Company\u2019s Value",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 310,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Why Continuing Value Doesn\u2019t Mark the End of Competitive Advantage",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 313,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Why Value Isn\u2019t Just from Continuing Value",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 314,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Common Pitfalls",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 315,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Erroneous Base-Year Extrapolation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 316,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Naive Overconservatism",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 317,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Purposeful Overconservatism",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 317,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Other Approaches to Continuing Value",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 317,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Other DCF Approaches",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 318,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Multiples",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 320,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Asset-Based Valuations",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 321,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Closing Thoughts",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 321,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "15. Estimating the Cost of Capital",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 6,
+            "page_index": 324,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Calculating the Weighted Average Cost of Capital",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 325,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Estimating the Cost of Equity",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 327,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Estimating the Market Return",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 327,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Adjust for Industry/Company Risk",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 333,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Estimating the After-Tax Cost of Debt",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 343,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Yield to Maturity as a Proxy",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 343,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Cost of Below-Investment-Grade Debt",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 345,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Incorporating the Interest Tax Shield",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 346,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Forecasting Target Capital Structure to Weight WACC Components",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 347,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Current Capital Structure",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 348,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Capital Structure of Peer Companies",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 350,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Management\u2019s Financing Philosophy",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 351,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Estimating WACC for Complex Capital Structures",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 351,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Closing Thoughts",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 352,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "16. Moving from Enterprise Value to Value per Share",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 6,
+            "page_index": 354,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The Valuation Buildup Process",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 355,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Valuing Nonoperating Assets",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 8,
+            "page_index": 356,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Excess Cash and Marketable Securities",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 357,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Investments in Nonconsolidated Companies",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 357,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Loans to Other Companies",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 360,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Finance Subsidiaries",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 360,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Discontinued Operations",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 361,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Excess Real Estate",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 361,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Excess Pension Assets",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 362,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Tax Loss Carryforwards",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 362,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Valuing Interest-Bearing Debt",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 363,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Valuing Debt Equivalents",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 365,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Provisions",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 365,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Leases",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 366,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Unfunded Retirement Obligations",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 366,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Contingent Liabilities",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 367,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Valuing Hybrid Securities and Noncontrolling Interests",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 367,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Convertible Securities",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 367,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Employee Stock Options",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 371,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Noncontrolling Interests by Other Companies",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 373,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Estimating Value per Share",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 374,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "17. Analyzing the Results",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 376,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Validating the Model",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 376,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Is the Model Technically Robust?",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 377,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Is the Model Economically Consistent?",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 377,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Are the Results Plausible?",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 379,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Sensitivity Analysis",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 379,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Assessing the Impact of Individual Drivers",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 379,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Analyzing Trade-Offs",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 380,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Creating Scenarios",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 381,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The Art of Valuation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 385,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "18. Using Multiples",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 7,
+            "page_index": 386,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Value Multibusiness Companies as a Sum of Their Parts",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 388,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Use Forward Earnings Estimates",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 389,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Use Net Enterprise Value Divided by Adjusted EBITA or NOPAT",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 391,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Why Not Price to Earnings?",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 392,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Why Not EV to EBIT?",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 393,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Choosing between EBITA and EBITDA",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 395,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "NOPAT vs. EBITA",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 397,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Adjust for Nonoperating Items",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 399,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Use the Right Peer Group",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 401,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Alternative Multiples",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 403,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Enterprise Value to Revenues",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 403,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "PEG Ratio",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 404,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Multiples of Invested Capital",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 405,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Multiples Based on Operating Metrics",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 405,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Summary",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 408,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "19. Valuation by Parts",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 5,
+            "page_index": 410,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The Mechanics of Valuing by Parts",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 411,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Building Business Unit Financial Statements",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 415,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Allocating Corporate Overhead Costs",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 416,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Dealing with Intercompany Transactions",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 417,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Understanding Financial Subsidiaries",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 420,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Navigating Public Information",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 421,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Cost of Capital",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 423,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Testing the Value Based on Multiples of Peers",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 425,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Summary",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 427,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Part Three. Advanced Valuation Techniques",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 8,
+            "page_index": 430,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "20. Taxes",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 5,
+            "page_index": 432,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Estimating Operating Taxes",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 1,
+            "page_index": 432,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Using Public Statements to Estimate Operating Taxes",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 434,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Converting Operating Taxes to Operating Cash Taxes",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 438,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Deferred Taxes on the Reorganized Balance Sheet",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 1,
+            "page_index": 442,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Finding Deferred Taxes on the Balance Sheet",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 443,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Valuing Deferred Taxes",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 443,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Closing Thoughts",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 444,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "21. Nonoperating Items, Provisions, and Reserves",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 446,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Nonoperating Expenses and One-Time Charges",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 446,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Separating Operating from Nonoperating Expenses",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 447,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Searching the Notes for Hidden One-Time Items",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 449,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Analyzing Each Nonoperating Item for Impact on Future Operations",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 450,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Provisions and Their Corresponding Reserves",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 454,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Adjustments for the Provisions",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 454,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Provisions and Taxes",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 460,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Closing Thoughts",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 460,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "22. Leases",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 5,
+            "page_index": 462,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Accounting for Operating Leases",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 463,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Valuing a Company with Operating Leases",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 6,
+            "page_index": 465,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Reorganizing the Financial Statements",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 466,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Estimating Free Cash Flow",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 467,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Incorporating Operating Leases into Financial Projections",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 468,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Estimating the Cost of Capital",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 469,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Moving from Enterprise Value to Equity Value",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 469,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Valuation Using Cash Flow to Equity",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 470,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Adjusting Historical Financial Statements for Operating Leases",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 471,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "An Alternative Method for Valuing Operating Leases",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 472,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Closing Thoughts",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 474,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "23. Retirement Obligations",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 5,
+            "page_index": 476,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Reorganizing the Financial Statements with Pensions",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 476,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Reorganizing the Balance Sheet",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 477,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Reorganizing the Income Statement",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 478,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Expected Return and Earnings Manipulation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 480,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Pensions and the Cost of Capital",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 481,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Relevering Beta to Estimate the Cost of Equity",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 483,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Incorporating Pensions into the Value of Equity",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 484,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Closing Thoughts",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 484,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "24. Measuring Performance in Capital-Light Businesses",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 486,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Capitalizing Expensed Investments",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 486,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Example: Capitalizing R&D Expenses",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 487,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Interpreting Return on Capital, Including Capitalized Expenses",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 492,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "When Businesses Need Little or No Capital",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 494,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Capital-Light Business Models and ROIC",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 494,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Economic Profit as a Key Value Metric",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 497,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Summary",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 500,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "25. Alternative Ways to Measure Return on Capital",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 5,
+            "page_index": 502,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "When ROIC Equals IRR",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 503,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "When CFROI Equals IRR",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 504,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Choosing between ROIC and CFROI",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 506,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Theoretical Trade-Offs",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 506,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Practical Considerations",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 507,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Flaws of Other Cash Returns on Capital",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 509,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Summary",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 510,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "26. Inflation",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 512,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Inflation Leads to Lower Value Creation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 512,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Historical Analysis in Times of High Inflation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 518,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Financial Projections in Real and Nominal Terms",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 5,
+            "page_index": 519,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Step 1: Forecast Operating Performance in Real Terms",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 520,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Step 2: Build Financial Statements in Nominal Terms",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 522,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Step 3: Build Financial Statements in Real Terms",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 523,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Step 4: Forecast Free Cash Flows in Real and Nominal Terms",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 523,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Step 5: Estimate DCF Value in Real and Nominal Terms",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 524,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Summary",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 525,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "27. Cross-Border Valuation",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 6,
+            "page_index": 526,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Forecasting Cash Flows",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 526,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Inflation and Interest Rates",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 529,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Forward Exchange Rates",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 529,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Conversion of Cash Flows",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 531,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Estimating the Cost of Capital",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 1,
+            "page_index": 531,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Global CAPM",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 531,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Applying a Domestic- or Foreign-Capital WACC",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 535,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Incorporating Foreign-Currency Risk in the Valuation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 537,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Using Translated Foreign-Currency Financial Statements",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 540,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Three Approaches",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 540,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "An Application of the Methods",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 541,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Summary",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 543,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Part Four. Managing for Value",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 7,
+            "page_index": 544,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "28. Corporate Portfolio Strategy",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 7,
+            "page_index": 546,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Bet on the Horse\u2014or the Jockey?",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 547,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "What Makes an Owner the Best?",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 5,
+            "page_index": 548,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Unique Links with Other Businesses",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 549,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Distinctive Skills",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 549,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Better Governance",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 550,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Better Insight and Foresight",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 551,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Distinctive Access to Critical Stakeholders",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 551,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The Best-Owner Life Cycle",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 552,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Dynamic Portfolio Management",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 554,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The Myth of Diversification",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 556,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Smoothing Cash Flow Isn\u2019t the Key",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 556,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Elusive Benefits, Real Costs",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 557,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "What Does Matter",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 558,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Conglomerates in Emerging Markets",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 559,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Constructing the Portfolio",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 560,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Assessment of Business Units",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 560,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Scenario Analysis",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 562,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Summary",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 565,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "29. Strategic Management: Analytics",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 6,
+            "page_index": 566,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Adopting a Granular Perspective",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 567,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Taking the Enterprise View",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 1,
+            "page_index": 569,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "A Simpler Alternative",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 570,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Applying Value Drivers to Monitor Performance",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 573,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Identifying Value Drivers",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 574,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Understanding Value Drivers Pays Benefits",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 578,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Creating Actionable Metrics",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 579,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Setting Targets",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 585,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Monitoring Results",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 586,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Summary",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 588,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "30. Strategic Management: Mindsets and Behaviors",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 590,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Strong Governance",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 592,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Long-Term Vision",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 592,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The Right Decision Makers",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 593,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Granular Decisions",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 594,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Strong Staff",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 594,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Debiased Decision Making",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 595,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Inertia (Stability Bias)",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 595,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Groupthink",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 596,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Confirmation Bias and Excessive Optimism",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 597,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Loss Aversion",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 598,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Synchronized and Streamlined Processes",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 599,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Start with Strategy",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 600,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Build a Plan",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 600,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Shape Operations",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 600,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Review Performance, Repeat",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 601,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Closing Thoughts",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 603,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "31. Mergers and Acquisitions",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 9,
+            "page_index": 604,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "A Framework for Value Creation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 605,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Empirical Results",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 607,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "When Do Acquisitions Take Place?",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 607,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Do Acquisitions Create Value?",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 607,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "For Whom Do Acquisitions Create Value?",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 608,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Archetypes for Value-Creating Acquisitions",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 6,
+            "page_index": 612,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Improve Target Company\u2019s Performance",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 613,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Consolidate to Remove Excess Capacity",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 613,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Accelerate Market Access for Products",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 614,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Acquire Skills or Technologies Faster or at Lower Cost",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 615,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Exploit a Business\u2019s Industry-Specific Scalability",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 615,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Pick Winners Early and Help Develop Their Businesses",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 616,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Longer-Odds Strategies for Creating Value from Acquisitions",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 616,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Rolling Up",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 616,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Consolidate to Improve Competitive Behavior",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 617,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Enter into a Transformational Merger",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 617,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Buy Cheap",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 618,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Estimating Operating Improvements",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 619,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Estimating Cost and Capital Savings",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 619,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Estimating Revenue Improvements",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 622,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Implementation Costs, Requirements, and Timing",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 623,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "How to Pay: With Cash or Stock?",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 623,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Focus on Value Creation, Not Accounting",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 625,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Characteristics of Better Acquirers",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 628,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Engaging in M&A Thematically",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 628,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Managing Reputation as an Acquirer",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 629,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Confirming the Strategic Vision",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 630,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Reassessing Performance Improvement Targets",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 630,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Closing Thoughts",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 631,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "32. Divestitures",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 5,
+            "page_index": 632,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Value Creation from Divestitures",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 1,
+            "page_index": 634,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "The Costs of Holding On",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 636,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Why Executives Shy Away from Divestitures",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 638,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Assessing Potential Value from Divestitures",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 5,
+            "page_index": 641,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Lost Synergies",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 642,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Disentanglement Costs",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 642,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Stranded Costs",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 642,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Legal and Regulatory Barriers",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 643,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Pricing and Liquidity",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 644,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Deciding on Transaction Type",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 645,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Private Transactions",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 645,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Public Transactions",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 646,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Summary",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 650,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "33. Capital Structure, Dividends, and Share Repurchases",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 9,
+            "page_index": 652,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Practical Guidelines",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 653,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "A Four-Step Approach",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 655,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Step 1: Project and Stress-Test Operating Cash Flows",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 656,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Step 2: Develop a Capital Structure Target",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 657,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Step 3: Estimate Surplus or Deficit",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 657,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Step 4: Decide on a Surplus Payout and Deficit Financing",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 659,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Setting a Target Capital Structure",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 660,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Fundamental Debt/Equity Trade-Offs",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 660,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Evidence on Debt/Equity Trade-Offs",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 662,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Credit Ratings and Target Capital Structure",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 664,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Payouts to Shareholders",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 670,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Dividends",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 671,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Share Repurchases",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 673,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Extraordinary Dividends",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 678,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Equity Financing",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 678,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Debt Financing",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 679,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Divestitures of Noncore Businesses",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 680,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Creating Value from Financial Engineering",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 680,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Derivative Instruments",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 681,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Off-Balance-Sheet Financing",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 681,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Hybrid Financing",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 683,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Summary",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 684,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "34. Investor Communications",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 8,
+            "page_index": 686,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Objectives of Investor Communications",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 687,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Intrinsic Value vs. Market Value",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 688,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Which Investors Matter?",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 689,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Investor Segmentation by Strategy",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 690,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Targeting Communications by Segment",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 693,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Communicating with Intrinsic Investors",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 695,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "What Investors Want",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 695,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Benefits of Transparency",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 696,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Listening to Investors",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 699,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Earnings Guidance",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 700,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "No Payoff for Earnings Guidance",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 700,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "An Alternative to Earnings Guidance",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 702,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Meeting Consensus Earnings Forecasts",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 703,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "When Companies Fall Short",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 704,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "When Companies Meet or Beat the Consensus Forecast",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 705,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Summary",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 706,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Part Five. Special Situations",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 5,
+            "page_index": 708,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "35. Emerging Markets",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 6,
+            "page_index": 710,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Why Scenario DCF Is More Accurate than Risk Premiums",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 711,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Applying the Scenario DCF Approach",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 714,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Estimating Cost of Capital in Emerging Markets",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 717,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "General Guidelines",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 717,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Estimating the Cost of Equity",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 719,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Estimating the After-Tax Cost of Debt",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 720,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Estimating Capital Structure and WACC",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 720,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Other Complications in Valuing Emerging-Markets Companies",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 720,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Triangulating Valuation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 722,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Summary",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 726,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "36. High-Growth Companies",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 728,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "A Valuation Process for High-Growth Companies",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 729,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Start from the Future",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 729,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Work Backward to Current Performance",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 737,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Develop Scenarios",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 738,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Weight Scenarios",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 739,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Uncertainty Is Here to Stay",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 740,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Summary",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 742,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "37. Cyclical Companies",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 744,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Share Price Behavior",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 744,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "An Approach to Valuing Cyclical Companies",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 749,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Implications for Managing Cyclical Companies",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 750,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Summary",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 751,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "38. Banks",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 752,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Economics of Banking",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 753,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Net Interest Income",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 753,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Fee and Commission Income",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 754,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Trading Income",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 754,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Other Income",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 755,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Principles of Bank Valuation",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 5,
+            "page_index": 757,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Analyzing and Forecasting Equity Cash Flows",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 759,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Discounting Equity Cash Flows",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 760,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Pitfalls of Equity DCF Valuation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 762,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Economic-Spread Analysis",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 764,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Economic Spread vs. Net Interest Income",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 768,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Complications in Bank Valuations",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 769,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Convergence of Forward Interest Rates",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 769,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Loan Loss Provisions",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 771,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Risk-Weighted Assets and Equity Risk Capital",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 772,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Value Drivers for Different Banking Activities",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 774,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Summary",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 777,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "39. Flexibility",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 7,
+            "page_index": 778,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "A Hierarchy of Approaches",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 779,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Uncertainty, Flexibility, and Value",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 1,
+            "page_index": 781,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "What Creates Flexibility Value",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 784,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Managing Flexibility",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 786,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Methods for Valuing Flexibility",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 788,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Real-Option Valuation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 789,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Valuation Based on Decision Tree Analysis",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 791,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Comparing ROV and DTA Approaches",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 792,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Four Steps to Valuing Flexibility",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 1,
+            "page_index": 797,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Real-Option Valuation: A Numerical Example",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 798,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Real-Option Valuation and Decision Tree Analysis: A Numerical Example",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 803,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "DTA Approach: Technological Risk",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 804,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "ROV Approach: Technological and Commercial Risk",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 807,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Summary",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 811,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Appendix A. Discounted Economic Profit Equals Discounted Free Cash Flow",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 812,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Proof Using Perpetuities",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 812,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Generalized Proof",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 814,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Appendix B. Derivation of Free Cash Flow, Weighted Average Cost of Capital, and Adjusted Present Value",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 818,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Enterprise Discounted Cash Flow",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 818,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Adjusted Present Value",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 821,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Appendix C. Levering and Unlevering the Cost of Equity",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 824,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Unlevered Cost of Equity",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 824,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Unlevered Cost of Equity When ktxa Equals kd",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 825,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Unlevered Cost of Equity When Debt is Constant",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 826,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Levered Cost of Equity",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 827,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Levered Beta",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 829,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Unlevered Beta and Pensions",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 830,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Appendix D. Leverage and the Price-to-Earnings Multiple",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 832,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Step 1: Defining Unlevered P/E",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 832,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Step 2: Linking Net Income to NOPAT",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 833,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Step 3: Deriving Levered P/E",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 833,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Appendix E. Other Capital Structure Issues",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 836,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Pecking-Order Theory",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 836,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Market-Based Rating Approach",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 837,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Leverage, Coverage, and Solvency",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 838,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Appendix F. Technical Issues in Estimating the Market Risk Premium",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 842,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Calculate Premium Relative to Long-Term Government Bonds",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 842,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Use the Longest Period Possible",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 842,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Use an Arithmetic Average of Longer-Dated (e.g., Ten-Year) Intervals",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 843,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Appendix G. Global, International, and Local CAPM",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 846,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Global CAPM",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 847,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "International CAPM",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 848,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Local CAPM",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 850,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Appendix H. A Valuation of Costco Wholesale",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 7,
+            "page_index": 854,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Modeling the Financial Statements",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 854,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Reorganizing the Financial Statements",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 855,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Forecasting the Financials",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 857,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Estimating Continuing Value",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 858,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Estimating the Weighted Average Cost of Capital",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 859,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Valuing the Enterprise and Converting to Equity",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 859,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Putting the Model to Work",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 860,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Appendix I. Two-Stage Formula for Continuing Value",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 878,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Index",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 880,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "EULA",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 898,
+            "view_mode": "Fit",
+            "view_pos": []
+        }
+    ],
+    "pages": 899,
+    "ocr_stats": {
+        "ocr_pages": 899,
+        "ocr_failed": 31,
+        "ocr_success": 868,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 219,
+        "equations": {
+            "successful_ocr": 279,
+            "unsuccessful_ocr": 16,
+            "equations": 295
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

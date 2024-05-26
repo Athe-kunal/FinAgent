@@ -1,0 +1,298 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Title Page",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Contents",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 5,
+            "view_mode": "FitR",
+            "view_pos": [
+                17.0,
+                181.0,
+                348.0,
+                475.0
+            ]
+        },
+        {
+            "title": "Epigraph",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "FitR",
+            "view_pos": [
+                17.0,
+                282.0,
+                349.0,
+                576.0
+            ]
+        },
+        {
+            "title": "Preface to the Fourth Edition, by Warren E. Buffett",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "FitR",
+            "view_pos": [
+                17.0,
+                180.0,
+                349.0,
+                474.0
+            ]
+        },
+        {
+            "title": "A Note About Benjamin Graham, by Jason Zweig",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "FitR",
+            "view_pos": [
+                29.0,
+                179.0,
+                361.0,
+                474.0
+            ]
+        },
+        {
+            "title": "Introduction: What This Book Expects to Accomplish",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 1,
+            "page_index": 15,
+            "view_mode": "FitR",
+            "view_pos": [
+                29.0,
+                201.0,
+                362.0,
+                496.0
+            ]
+        },
+        {
+            "title": "COMMENTARY ON THE INTRODUCTION",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 26,
+            "view_mode": "FitR",
+            "view_pos": [
+                16.0,
+                201.0,
+                349.0,
+                496.0
+            ]
+        },
+        {
+            "title": "1. Investment versus Speculation: Results to Be Expected by the Intelligent Investor",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 1,
+            "page_index": 32,
+            "view_mode": "FitR",
+            "view_pos": [
+                16.0,
+                200.0,
+                349.0,
+                495.0
+            ]
+        },
+        {
+            "title": "COMMENTARY ON CHAPTER 1",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 49,
+            "view_mode": "FitR",
+            "view_pos": [
+                25.0,
+                202.0,
+                358.0,
+                497.0
+            ]
+        },
+        {
+            "title": "2. The Investor and Inflation",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 1,
+            "page_index": 61,
+            "view_mode": "FitR",
+            "view_pos": [
+                25.0,
+                201.0,
+                358.0,
+                496.0
+            ]
+        },
+        {
+            "title": "COMMENTARY ON CHAPTER 2",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 72,
+            "view_mode": "FitR",
+            "view_pos": [
+                16.0,
+                201.0,
+                349.0,
+                496.0
+            ]
+        },
+        {
+            "title": "3. A Century of Stock-Market History: The Level of Stock Prices in Early 1972",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 1,
+            "page_index": 79,
+            "view_mode": "FitR",
+            "view_pos": [
+                28.0,
+                202.0,
+                361.0,
+                497.0
+            ]
+        },
+        {
+            "title": "COMMENTARY ON CHAPTER 3",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 94,
+            "view_mode": "FitR",
+            "view_pos": [
+                17.0,
+                201.0,
+                350.0,
+                496.0
+            ]
+        },
+        {
+            "title": "Acknowledgments from Jason Zweig",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 103,
+            "view_mode": "FitR",
+            "view_pos": [
+                30.0,
+                201.0,
+                363.0,
+                496.0
+            ]
+        },
+        {
+            "title": "Index",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 105,
+            "view_mode": "FitR",
+            "view_pos": [
+                11.0,
+                215.0,
+                381.0,
+                558.0
+            ]
+        },
+        {
+            "title": "About the Authors",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 138,
+            "view_mode": "FitR",
+            "view_pos": [
+                111.0,
+                416.0,
+                498.0,
+                759.0
+            ]
+        },
+        {
+            "title": "Credits",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 139,
+            "view_mode": "FitR",
+            "view_pos": [
+                105.0,
+                431.0,
+                491.0,
+                774.0
+            ]
+        },
+        {
+            "title": "Front Cover",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Copyright",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 140,
+            "view_mode": "FitR",
+            "view_pos": [
+                111.0,
+                399.0,
+                498.0,
+                742.0
+            ]
+        },
+        {
+            "title": "About the Publisher",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 141,
+            "view_mode": "FitR",
+            "view_pos": [
+                -3.0,
+                194.0,
+                384.0,
+                537.0
+            ]
+        }
+    ],
+    "pages": 142,
+    "ocr_stats": {
+        "ocr_pages": 142,
+        "ocr_failed": 4,
+        "ocr_success": 138,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 11,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

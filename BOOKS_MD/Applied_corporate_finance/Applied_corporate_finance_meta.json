@@ -1,0 +1,271 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "nyu.edu",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 18,
+            "page_index": null,
+            "view_mode": "?",
+            "view_pos": []
+        },
+        {
+            "title": "Untitled Document",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                792.0,
+                0.0
+            ]
+        },
+        {
+            "title": "http://pages.stern.nyu.edu/~adamodar/pdfiles/acf2E/Preface.pdf",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                792.0,
+                0.0
+            ]
+        },
+        {
+            "title": "http://pages.stern.nyu.edu/~adamodar/pdfiles/acf2E/Chap1.pdf",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                792.0,
+                0.0
+            ]
+        },
+        {
+            "title": "http://pages.stern.nyu.edu/~adamodar/pdfiles/acf2E/Chap2.pdf",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 17,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                792.0,
+                0.0
+            ]
+        },
+        {
+            "title": "http://pages.stern.nyu.edu/~adamodar/pdfiles/acf2E/Chap3.pdf",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 73,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                792.0,
+                0.0
+            ]
+        },
+        {
+            "title": "http://pages.stern.nyu.edu/~adamodar/pdfiles/acf2E/Chap4.pdf",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 133,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                792.0,
+                0.0
+            ]
+        },
+        {
+            "title": "http://pages.stern.nyu.edu/~adamodar/pdfiles/acf2E/Chap5.pdf",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 225,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                792.0,
+                0.0
+            ]
+        },
+        {
+            "title": "http://pages.stern.nyu.edu/~adamodar/pdfiles/acf2E/Chap6.pdf",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 313,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                792.0,
+                0.0
+            ]
+        },
+        {
+            "title": "http://pages.stern.nyu.edu/~adamodar/pdfiles/acf2E/Chap7.pdf",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 373,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                792.0,
+                0.0
+            ]
+        },
+        {
+            "title": "http://pages.stern.nyu.edu/~adamodar/pdfiles/acf2E/Chap8.pdf",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 459,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                792.0,
+                0.0
+            ]
+        },
+        {
+            "title": "http://pages.stern.nyu.edu/~adamodar/pdfiles/acf2E/Chap9.pdf",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 537,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                792.0,
+                0.0
+            ]
+        },
+        {
+            "title": "http://pages.stern.nyu.edu/~adamodar/pdfiles/acf2E/Chap10.pdf",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 602,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                792.0,
+                0.0
+            ]
+        },
+        {
+            "title": "http://pages.stern.nyu.edu/~adamodar/pdfiles/acf2E/Chap11.pdf",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 650,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                792.0,
+                0.0
+            ]
+        },
+        {
+            "title": "http://pages.stern.nyu.edu/~adamodar/pdfiles/acf2E/Chap12.pdf",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 714,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                792.0,
+                0.0
+            ]
+        },
+        {
+            "title": "http://pages.stern.nyu.edu/~adamodar/pdfiles/acf2E/App1.pdf",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 798,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                792.0,
+                0.0
+            ]
+        },
+        {
+            "title": "http://pages.stern.nyu.edu/~adamodar/pdfiles/acf2E/App2.pdf",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 807,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                792.0,
+                0.0
+            ]
+        },
+        {
+            "title": "http://pages.stern.nyu.edu/~adamodar/pdfiles/acf2E/App3.pdf",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 830,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                792.0,
+                0.0
+            ]
+        },
+        {
+            "title": "http://pages.stern.nyu.edu/~adamodar/pdfiles/acf2E/App4.pdf",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 846,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                792.0,
+                0.0
+            ]
+        }
+    ],
+    "pages": 856,
+    "ocr_stats": {
+        "ocr_pages": 856,
+        "ocr_failed": 0,
+        "ocr_success": 856,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 376,
+        "equations": {
+            "successful_ocr": 160,
+            "unsuccessful_ocr": 19,
+            "equations": 179
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

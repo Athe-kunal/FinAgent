@@ -1,0 +1,4370 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Cover Page",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 877,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.34003448486328,
+                705.533203125,
+                0.0
+            ]
+        },
+        {
+            "title": "Title Page",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                660.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Copyright Page",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                675.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Dedication Page",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 5,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                570.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Contents at a Glance",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                699.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Contents",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                699.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Acknowledgments",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 20,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                699.0,
+                0.0
+            ]
+        },
+        {
+            "title": "About the Author",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 21,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                699.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Preface to the Third Edition",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 22,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                699.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1. The Dark Side of Valuation",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 26,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                705.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Foundations of Value",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 27,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Intrinsic Valuation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 27,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                576.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Determinants of Value",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 29,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                608.9998779296875,
+                0.0
+            ]
+        },
+        {
+            "title": "Valuation Across Time",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 33,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                261.75,
+                0.0
+            ]
+        },
+        {
+            "title": "Interest Rates",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 34,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Market Risk Premiums",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 35,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "The Macro Environment",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 36,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                719.99951171875,
+                0.0
+            ]
+        },
+        {
+            "title": "Valuation Across the Life Cycle",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 37,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                602.2494506835938,
+                0.0
+            ]
+        },
+        {
+            "title": "The Business Life Cycle",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 37,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                457.49951171875,
+                0.0
+            ]
+        },
+        {
+            "title": "Early in the Life Cycle: Young Companies",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 39,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "The Growth Phase: Growth Companies",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 40,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                312.75,
+                0.0
+            ]
+        },
+        {
+            "title": "Maturity (A Mixed Blessing): Mature Firms",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 42,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                660.75,
+                0.0
+            ]
+        },
+        {
+            "title": "Winding Down: Dealing with Decline",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 43,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                372.75,
+                0.0
+            ]
+        },
+        {
+            "title": "Valuation Across the Business Spectrum",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 44,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                187.5,
+                0.0
+            ]
+        },
+        {
+            "title": "Financial Services Firms",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 45,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                492.74908447265625,
+                0.0
+            ]
+        },
+        {
+            "title": "Cyclical and Commodity Companies",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 47,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                284.2491149902344,
+                0.0
+            ]
+        },
+        {
+            "title": "Businesses with Intangible Assets",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 49,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                283.49908447265625,
+                0.0
+            ]
+        },
+        {
+            "title": "Emerging-Market Companies",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 51,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                240.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Multibusiness and Global Companies",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 53,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                540.0,
+                0.0
+            ]
+        },
+        {
+            "title": "User-, Subscriber-, and Customer-Based Businesses",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 55,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "The Dark Side of Valuation Beckons",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 56,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                261.75,
+                0.0
+            ]
+        },
+        {
+            "title": "Input Phase",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 57,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Valuation Phase",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 58,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Post-Valuation Phase",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 59,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                250.5,
+                0.0
+            ]
+        },
+        {
+            "title": "Conclusion",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 60,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                383.25,
+                0.0
+            ]
+        },
+        {
+            "title": "Part I: Enlightenment: The Tools",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 62,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                660.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2. Intrinsic Valuation",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 63,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.11730194091797,
+                706.275634765625,
+                0.0
+            ]
+        },
+        {
+            "title": "Discounted Cash Flow Valuation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 63,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.11730194091797,
+                438.6510314941406,
+                0.0
+            ]
+        },
+        {
+            "title": "The Essence of DCF Valuation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 63,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.11730194091797,
+                322.6803894042969,
+                0.0
+            ]
+        },
+        {
+            "title": "Equity Versus Firm Valuation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 64,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.11730194091797,
+                516.8796997070312,
+                0.0
+            ]
+        },
+        {
+            "title": "Inputs to a DCF Valuation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 65,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.11730194091797,
+                188.18182373046875,
+                0.0
+            ]
+        },
+        {
+            "title": "Variations on DCF Valuation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 103,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.11730194091797,
+                291.1144104003906,
+                0.0
+            ]
+        },
+        {
+            "title": "Certainty-Adjusted Cash Flow Models",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 104,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.11730194091797,
+                720.0018310546875,
+                0.0
+            ]
+        },
+        {
+            "title": "Adjusted Present-Value Models",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 108,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.11730194091797,
+                501.09747314453125,
+                0.0
+            ]
+        },
+        {
+            "title": "Excess-Return Models",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 112,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.11730194091797,
+                650.0061645507812,
+                0.0
+            ]
+        },
+        {
+            "title": "What Do Intrinsic Valuation Models Tell Us?",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 115,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.11730194091797,
+                317.19000244140625,
+                0.0
+            ]
+        },
+        {
+            "title": "Conclusion",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 116,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.11730194091797,
+                564.9112548828125,
+                0.0
+            ]
+        },
+        {
+            "title": "3. Probabilistic Valuation: Scenario Analysis, Decision Trees, and Simulations",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 118,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.04610443115234,
+                706.5130004882812,
+                0.0
+            ]
+        },
+        {
+            "title": "Scenario Analysis",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 118,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.04610443115234,
+                274.253662109375,
+                0.0
+            ]
+        },
+        {
+            "title": "Best Case/Worst Case",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 119,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.04610443115234,
+                720.0000610351562,
+                0.0
+            ]
+        },
+        {
+            "title": "Multiple Scenario Analysis",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 119,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.04610443115234,
+                214.9107666015625,
+                0.0
+            ]
+        },
+        {
+            "title": "Decision Trees",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 123,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.04610443115234,
+                232.44378662109375,
+                0.0
+            ]
+        },
+        {
+            "title": "Steps in Decision Tree Analysis",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 124,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.04610443115234,
+                720.000244140625,
+                0.0
+            ]
+        },
+        {
+            "title": "Estimation Issues",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 131,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.04610443115234,
+                472.5122375488281,
+                0.0
+            ]
+        },
+        {
+            "title": "Risk-Adjusted Value and Decision Trees",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 132,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.04610443115234,
+                551.4132080078125,
+                0.0
+            ]
+        },
+        {
+            "title": "Simulations",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 134,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.04610443115234,
+                399.0093688964844,
+                0.0
+            ]
+        },
+        {
+            "title": "Steps in Simulation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 134,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.04610443115234,
+                268.8590393066406,
+                0.0
+            ]
+        },
+        {
+            "title": "Use in Decision Making",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 144,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.04610443115234,
+                645.1461791992188,
+                0.0
+            ]
+        },
+        {
+            "title": "Simulations with Constraints",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 145,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.04610443115234,
+                720.0018310546875,
+                0.0
+            ]
+        },
+        {
+            "title": "Issues with Using Simulations",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 147,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.04610443115234,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Risk-Adjusted Value and Simulations",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 148,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.04610443115234,
+                720.0018310546875,
+                0.0
+            ]
+        },
+        {
+            "title": "An Overall View of Probabilistic Risk Assessment Approaches",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 149,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.04610443115234,
+                629.6381225585938,
+                0.0
+            ]
+        },
+        {
+            "title": "Comparing the Approaches",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 149,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.04610443115234,
+                507.5812683105469,
+                0.0
+            ]
+        },
+        {
+            "title": "A Complement to or Replacement for Risk-Adjusted Value",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 150,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.04610443115234,
+                213.5625,
+                0.0
+            ]
+        },
+        {
+            "title": "Conclusion",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 151,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.04610443115234,
+                297.181884765625,
+                0.0
+            ]
+        },
+        {
+            "title": "4. Relative Valuation/Pricing",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 153,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.30674743652344,
+                705.6441650390625,
+                0.0
+            ]
+        },
+        {
+            "title": "What Is Relative Valuation?",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 153,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.30674743652344,
+                220.417236328125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Ubiquity of Relative Valuation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 155,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.30674743652344,
+                446.52154541015625,
+                0.0
+            ]
+        },
+        {
+            "title": "Reasons for Popularity and Potential Pitfalls",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 156,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.30674743652344,
+                513.2760009765625,
+                0.0
+            ]
+        },
+        {
+            "title": "Standardized Values and Multiples",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 158,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.30674743652344,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Earnings Multiples",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 159,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.30674743652344,
+                630.2763671875,
+                0.0
+            ]
+        },
+        {
+            "title": "Book Value or Replacement Value Multiples",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 159,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.30674743652344,
+                363.2575988769531,
+                0.0
+            ]
+        },
+        {
+            "title": "Revenue Multiples",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 160,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.30674743652344,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Sector-Specific Multiples",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 160,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.30674743652344,
+                444.368408203125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Four Basic Steps of Using Multiples",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 161,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.30674743652344,
+                656.8345336914062,
+                0.0
+            ]
+        },
+        {
+            "title": "Definitional Tests",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 161,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.30674743652344,
+                435.75469970703125,
+                0.0
+            ]
+        },
+        {
+            "title": "Descriptive Tests",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 164,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.30674743652344,
+                546.29443359375,
+                0.0
+            ]
+        },
+        {
+            "title": "Analytical Tests",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 172,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.30674743652344,
+                646.7860107421875,
+                0.0
+            ]
+        },
+        {
+            "title": "Application Tests",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 177,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.30674743652344,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Reconciling Relative and Intrinsic Valuations",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 187,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.30674743652344,
+                367.5656433105469,
+                0.0
+            ]
+        },
+        {
+            "title": "Conclusion",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 188,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.30674743652344,
+                590.7975463867188,
+                0.0
+            ]
+        },
+        {
+            "title": "5. Real Options Valuation",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 189,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                705.0,
+                0.0
+            ]
+        },
+        {
+            "title": "The Essence of Real Options",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 189,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                178.5,
+                0.0
+            ]
+        },
+        {
+            "title": "Real Options, Risk-Adjusted Value, and Probabilistic Assessments",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 192,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                619.4998779296875,
+                0.0
+            ]
+        },
+        {
+            "title": "Real Options Examples",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 194,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                719.999755859375,
+                0.0
+            ]
+        },
+        {
+            "title": "The Option to Delay an Investment",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 194,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                575.999755859375,
+                0.0
+            ]
+        },
+        {
+            "title": "The Option to Expand an Investment",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 202,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                419.25,
+                0.0
+            ]
+        },
+        {
+            "title": "The Option to Abandon an Investment",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 210,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                719.9990844726562,
+                0.0
+            ]
+        },
+        {
+            "title": "Caveats for Real Options",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 214,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                549.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Conclusion",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 217,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                567.75,
+                0.0
+            ]
+        },
+        {
+            "title": "Appendix: Basics of Options and Option Pricing",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 218,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                654.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Option Payoffs",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 218,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                492.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Determinants of Option Value",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 220,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                247.5,
+                0.0
+            ]
+        },
+        {
+            "title": "Option Pricing Models",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 222,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                237.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Part II: The Dark Side of Macro Inputs",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 236,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                660.0,
+                0.0
+            ]
+        },
+        {
+            "title": "6. A Shaky Base: A \u201cRisky\u201d Risk-Free Rate",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 237,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.26099395751953,
+                705.796630859375,
+                0.0
+            ]
+        },
+        {
+            "title": "What Is a Risk-Free Asset?",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 237,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.26099395751953,
+                372.7283935546875,
+                0.0
+            ]
+        },
+        {
+            "title": "Why Do Risk-Free Rates Matter?",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 238,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.26099395751953,
+                239.92724609375,
+                0.0
+            ]
+        },
+        {
+            "title": "Estimating a Risk-Free Rate",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 239,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.26099395751953,
+                180.9833526611328,
+                0.0
+            ]
+        },
+        {
+            "title": "Requirements for an Investment to Be Risk-Free",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 240,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.26099395751953,
+                720.0001220703125,
+                0.0
+            ]
+        },
+        {
+            "title": "The Purist Solution",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 240,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.26099395751953,
+                200.15802001953125,
+                0.0
+            ]
+        },
+        {
+            "title": "A Practical Compromise",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 243,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.26099395751953,
+                614.895263671875,
+                0.0
+            ]
+        },
+        {
+            "title": "The Currency Effect",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 244,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.26099395751953,
+                647.5631103515625,
+                0.0
+            ]
+        },
+        {
+            "title": "Real Versus Nominal Risk-Free Rates",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 247,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.26099395751953,
+                542.4586181640625,
+                0.0
+            ]
+        },
+        {
+            "title": "Issues in Estimating Risk-Free Rates",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 249,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.26099395751953,
+                568.7349243164062,
+                0.0
+            ]
+        },
+        {
+            "title": "There Are No Long-Term Traded Government Bonds",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 249,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.26099395751953,
+                366.3370056152344,
+                0.0
+            ]
+        },
+        {
+            "title": "The Government Is Not Default-Free",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 257,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.26099395751953,
+                720.0009155273438,
+                0.0
+            ]
+        },
+        {
+            "title": "The Risk-Free Rate Might Change Over Time",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 261,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.26099395751953,
+                720.0009155273438,
+                0.0
+            ]
+        },
+        {
+            "title": "Closing Thoughts on Risk-Free Rates",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 266,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.26099395751953,
+                325.85626220703125,
+                0.0
+            ]
+        },
+        {
+            "title": "Conclusion",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 268,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.26099395751953,
+                452.97747802734375,
+                0.0
+            ]
+        },
+        {
+            "title": "Appendix 6.1",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 269,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.26099395751953,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "7. Risky Ventures: Assessing the Price of Risk",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 273,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.3001480102539,
+                705.6661376953125,
+                0.0
+            ]
+        },
+        {
+            "title": "Why Do Risk Premiums Matter?",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 273,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.3001480102539,
+                287.1179504394531,
+                0.0
+            ]
+        },
+        {
+            "title": "What Are the Determinants of Risk Premiums?",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 276,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.3001480102539,
+                439.7734069824219,
+                0.0
+            ]
+        },
+        {
+            "title": "Equity Risk Premiums",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 276,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.3001480102539,
+                317.9356689453125,
+                0.0
+            ]
+        },
+        {
+            "title": "Default Spreads",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 279,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.3001480102539,
+                719.999755859375,
+                0.0
+            ]
+        },
+        {
+            "title": "Standard Approaches for Estimating Risk Premiums",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 279,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.3001480102539,
+                332.26947021484375,
+                0.0
+            ]
+        },
+        {
+            "title": "Equity Risk Premiums",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 280,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.3001480102539,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Default Spreads",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 282,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.3001480102539,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Problem Scenarios",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 283,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.3001480102539,
+                289.26751708984375,
+                0.0
+            ]
+        },
+        {
+            "title": "The Dark Side",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 284,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.3001480102539,
+                355.91998291015625,
+                0.0
+            ]
+        },
+        {
+            "title": "The Light Side",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 286,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.3001480102539,
+                378.8531188964844,
+                0.0
+            ]
+        },
+        {
+            "title": "The Dark Side",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 293,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.3001480102539,
+                323.6681213378906,
+                0.0
+            ]
+        },
+        {
+            "title": "The Light Side",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 294,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.3001480102539,
+                411.82220458984375,
+                0.0
+            ]
+        },
+        {
+            "title": "The Dark Side",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 301,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.3001480102539,
+                524.3436889648438,
+                0.0
+            ]
+        },
+        {
+            "title": "The Light Side",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 302,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.3001480102539,
+                461.2725524902344,
+                0.0
+            ]
+        },
+        {
+            "title": "Conclusion",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 306,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.3001480102539,
+                555.8756103515625,
+                0.0
+            ]
+        },
+        {
+            "title": "Appendix 7.1",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 307,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.3001480102539,
+                550.86181640625,
+                0.0
+            ]
+        },
+        {
+            "title": "8. Macro Matters: The Real Economy",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 312,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.2162094116211,
+                705.9459228515625,
+                0.0
+            ]
+        },
+        {
+            "title": "Growth in the Real Economy",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 312,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.2162094116211,
+                399.5675964355469,
+                0.0
+            ]
+        },
+        {
+            "title": "Why Does Real Economic Growth Matter?",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 312,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.2162094116211,
+                280.81085205078125,
+                0.0
+            ]
+        },
+        {
+            "title": "Looking at History",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 313,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.2162094116211,
+                431.1892395019531,
+                0.0
+            ]
+        },
+        {
+            "title": "The Dark Side",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 319,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.2162094116211,
+                599.8378295898438,
+                0.0
+            ]
+        },
+        {
+            "title": "The Light Side",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 320,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.2162094116211,
+                720.00048828125,
+                0.0
+            ]
+        },
+        {
+            "title": "Expected Inflation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 321,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.2162094116211,
+                457.1887512207031,
+                0.0
+            ]
+        },
+        {
+            "title": "Why Does Expected Inflation Matter?",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 321,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.2162094116211,
+                337.7297058105469,
+                0.0
+            ]
+        },
+        {
+            "title": "Looking at History",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 323,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.2162094116211,
+                440.3249816894531,
+                0.0
+            ]
+        },
+        {
+            "title": "U.S. Inflation Rate Across Time",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 323,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.2162094116211,
+                315.2437744140625,
+                0.0
+            ]
+        },
+        {
+            "title": "The Dark Side",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 330,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.2162094116211,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "The Light Side",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 331,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.2162094116211,
+                479.67657470703125,
+                0.0
+            ]
+        },
+        {
+            "title": "Exchange Rates",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 332,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.2162094116211,
+                538.0003051757812,
+                0.0
+            ]
+        },
+        {
+            "title": "Why Do Exchange Rates Matter?",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 333,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.2162094116211,
+                720.0009155273438,
+                0.0
+            ]
+        },
+        {
+            "title": "Looking at History",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 334,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.2162094116211,
+                664.48779296875,
+                0.0
+            ]
+        },
+        {
+            "title": "The Dark Side",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 338,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.2162094116211,
+                245.67750549316406,
+                0.0
+            ]
+        },
+        {
+            "title": "The Light Side",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 340,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.2162094116211,
+                431.19000244140625,
+                0.0
+            ]
+        },
+        {
+            "title": "Conclusion",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 342,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.2162094116211,
+                719.9981689453125,
+                0.0
+            ]
+        },
+        {
+            "title": "Part III: The Dark Side across the Life Cycle",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 343,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                660.0,
+                0.0
+            ]
+        },
+        {
+            "title": "9. Baby Steps: Young and Start-Up Companies",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 344,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                710.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Young Companies in the Economy",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 344,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                549.5,
+                0.0
+            ]
+        },
+        {
+            "title": "A Life Cycle View of Young Companies",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 344,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                465.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Characteristics of Young Companies",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 345,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                507.5000305175781,
+                0.0
+            ]
+        },
+        {
+            "title": "Valuation Issues",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 347,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Intrinsic (DCF) Valuation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 347,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                635.5,
+                0.0
+            ]
+        },
+        {
+            "title": "Relative Valuation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 349,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                483.0,
+                0.0
+            ]
+        },
+        {
+            "title": "The Dark Side",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 350,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "The Light Side",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 354,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                588.4996948242188,
+                0.0
+            ]
+        },
+        {
+            "title": "Discounted Cash Flow Valuation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 354,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                492.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Relative Valuation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 380,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Real Options",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 383,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                216.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Conclusion",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 386,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                208.99876403808594,
+                0.0
+            ]
+        },
+        {
+            "title": "10. Shooting Stars: Valuing Growth Companies",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 388,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                710.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Growth Companies",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 388,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                464.0000305175781,
+                0.0
+            ]
+        },
+        {
+            "title": "A Life Cycle View of Growth Companies",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 388,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                379.5,
+                0.0
+            ]
+        },
+        {
+            "title": "Characteristics of Growth Companies",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 389,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                143.00006103515625,
+                0.0
+            ]
+        },
+        {
+            "title": "Valuation Issues",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 391,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Intrinsic Value",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 391,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                647.0000610351562,
+                0.0
+            ]
+        },
+        {
+            "title": "The Dark Side of Valuation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 394,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                625.0000610351562,
+                0.0
+            ]
+        },
+        {
+            "title": "Discounted Cash Flow Valuation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 394,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                539.999755859375,
+                0.0
+            ]
+        },
+        {
+            "title": "Relative Valuation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 399,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                146.4998779296875,
+                0.0
+            ]
+        },
+        {
+            "title": "The Light Side of Valuation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 401,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                144.5006103515625,
+                0.0
+            ]
+        },
+        {
+            "title": "Discounted Cash Flow Valuation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 402,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Relative Valuation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 420,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                426.5006408691406,
+                0.0
+            ]
+        },
+        {
+            "title": "Conclusion",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 424,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                381.5006408691406,
+                0.0
+            ]
+        },
+        {
+            "title": "11. The Grown-Ups: Mature Companies",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 426,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.04886627197266,
+                709.8372192382812,
+                0.0
+            ]
+        },
+        {
+            "title": "Mature Companies in the Economy",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 426,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.04886627197266,
+                424.76873779296875,
+                0.0
+            ]
+        },
+        {
+            "title": "A Life Cycle View of Mature Companies",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 426,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.04886627197266,
+                338.89251708984375,
+                0.0
+            ]
+        },
+        {
+            "title": "Characteristics of Mature Companies",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 427,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.04886627197266,
+                493.8761291503906,
+                0.0
+            ]
+        },
+        {
+            "title": "Valuation Issues",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 428,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.04886627197266,
+                600.0780639648438,
+                0.0
+            ]
+        },
+        {
+            "title": "Intrinsic (DCF) Valuation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 428,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.04886627197266,
+                513.693603515625,
+                0.0
+            ]
+        },
+        {
+            "title": "Relative Valuation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 430,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.04886627197266,
+                508.1038818359375,
+                0.0
+            ]
+        },
+        {
+            "title": "The Dark Side of Valuation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 431,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.04886627197266,
+                719.999755859375,
+                0.0
+            ]
+        },
+        {
+            "title": "Growth in Mature Companies",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 431,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.04886627197266,
+                645.8109130859375,
+                0.0
+            ]
+        },
+        {
+            "title": "Acquisition Inconsistencies",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 433,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.04886627197266,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Unreal Restructuring",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 435,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.04886627197266,
+                616.846435546875,
+                0.0
+            ]
+        },
+        {
+            "title": "Debt and Value",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 435,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.04886627197266,
+                312.4682922363281,
+                0.0
+            ]
+        },
+        {
+            "title": "Relative Valuation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 436,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.04886627197266,
+                529.9537353515625,
+                0.0
+            ]
+        },
+        {
+            "title": "The Light Side of Valuation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 437,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.04886627197266,
+                719.99951171875,
+                0.0
+            ]
+        },
+        {
+            "title": "Growth and Acquisitions",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 437,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.04886627197266,
+                610.7489013671875,
+                0.0
+            ]
+        },
+        {
+            "title": "Changing Management",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 439,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.04886627197266,
+                205.2506103515625,
+                0.0
+            ]
+        },
+        {
+            "title": "The Expected Value of Control",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 451,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.04886627197266,
+                366.3318786621094,
+                0.0
+            ]
+        },
+        {
+            "title": "Conclusion",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 463,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.04886627197266,
+                719.9981689453125,
+                0.0
+            ]
+        },
+        {
+            "title": "12. Winding Down: Declining Companies",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 465,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                710.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Declining Companies in the Economy",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 465,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                441.0,
+                0.0
+            ]
+        },
+        {
+            "title": "A Life Cycle View of Declining Companies",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 465,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                345.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Characteristics of Declining Companies",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 466,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                646.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Valuation Issues",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 466,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                236.50006103515625,
+                0.0
+            ]
+        },
+        {
+            "title": "Intrinsic (DCF) Valuation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 466,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                163.5,
+                0.0
+            ]
+        },
+        {
+            "title": "From Operating Assets to Equity Value per Share",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 468,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                465.50006103515625,
+                0.0
+            ]
+        },
+        {
+            "title": "Relative Valuation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 469,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "The Dark Side of Valuation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 469,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                335.0001525878906,
+                0.0
+            ]
+        },
+        {
+            "title": "Autopilot Optimism",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 469,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                250.00006103515625,
+                0.0
+            ]
+        },
+        {
+            "title": "Discount Rate Contortions",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 472,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                612.5001831054688,
+                0.0
+            ]
+        },
+        {
+            "title": "Divestiture Follies",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 474,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                515.0001220703125,
+                0.0
+            ]
+        },
+        {
+            "title": "Book Capital",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 474,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                301.0003356933594,
+                0.0
+            ]
+        },
+        {
+            "title": "Dealing with Distress",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 475,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Relative Valuation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 475,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                447.0,
+                0.0
+            ]
+        },
+        {
+            "title": "The Light Side of Valuation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 475,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                205.5,
+                0.0
+            ]
+        },
+        {
+            "title": "A Framework for Dealing with Decline and Distress",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 476,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Irreversible Decline, Low Distress",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 477,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                388.49951171875,
+                0.0
+            ]
+        },
+        {
+            "title": "Reversible Decline, Low Distress",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 480,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                230.0006103515625,
+                0.0
+            ]
+        },
+        {
+            "title": "Distress",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 481,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                404.5003356933594,
+                0.0
+            ]
+        },
+        {
+            "title": "Conclusion",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 509,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                261.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Part IV: The Dark Side Across Company Types",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 511,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                660.0,
+                0.0
+            ]
+        },
+        {
+            "title": "13. Ups and Downs: Cyclical and Commodity Companies",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 512,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                710.0,
+                0.0
+            ]
+        },
+        {
+            "title": "The Setting",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 512,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                452.5000305175781,
+                0.0
+            ]
+        },
+        {
+            "title": "Cyclical Companies",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 512,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                368.0000305175781,
+                0.0
+            ]
+        },
+        {
+            "title": "Commodity Companies",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 513,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Characteristics",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 513,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                546.0000610351562,
+                0.0
+            ]
+        },
+        {
+            "title": "The Dark Side of Valuation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 514,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                653.0000610351562,
+                0.0
+            ]
+        },
+        {
+            "title": "Base Year Fixation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 514,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                568.0000610351562,
+                0.0
+            ]
+        },
+        {
+            "title": "The Macro Crystal Ball",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 515,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                327.99993896484375,
+                0.0
+            ]
+        },
+        {
+            "title": "Macro Point of View (POV) Valuations",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 516,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                680.5000610351562,
+                0.0
+            ]
+        },
+        {
+            "title": "Selective Normalization",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 516,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                494.5000915527344,
+                0.0
+            ]
+        },
+        {
+            "title": "False Stability",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 516,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                125.00017547607422,
+                0.0
+            ]
+        },
+        {
+            "title": "The Light Side of Valuation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 519,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                555.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Discounted Cash Flow Valuation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 519,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                481.5,
+                0.0
+            ]
+        },
+        {
+            "title": "Relative Valuation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 528,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                425.5003356933594,
+                0.0
+            ]
+        },
+        {
+            "title": "The Real Options Argument for Undeveloped Reserves",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 531,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                519.4996948242188,
+                0.0
+            ]
+        },
+        {
+            "title": "Conclusion",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 536,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.0,
+                331.49908447265625,
+                0.0
+            ]
+        },
+        {
+            "title": "14. Mark to Market: Valuing Financial Services Companies",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 538,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.23528289794922,
+                705.88232421875,
+                0.0
+            ]
+        },
+        {
+            "title": "Financial Services Firms: The Big Picture",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 539,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.23528289794922,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Characteristics of Financial Services Firms",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 542,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.23528289794922,
+                553.411865234375,
+                0.0
+            ]
+        },
+        {
+            "title": "The Regulatory Overlay",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 543,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.23528289794922,
+                719.999755859375,
+                0.0
+            ]
+        },
+        {
+            "title": "Differences in Accounting Rules",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 543,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.23528289794922,
+                328.23516845703125,
+                0.0
+            ]
+        },
+        {
+            "title": "Debt and Equity",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 545,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.23528289794922,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Estimating Cash Flows Is Difficult",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 546,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.23528289794922,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "The Dark Side of Valuation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 546,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.23528289794922,
+                266.1177978515625,
+                0.0
+            ]
+        },
+        {
+            "title": "Debt",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 547,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.23528289794922,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Cash Flow Substitutes",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 547,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.23528289794922,
+                409.4118957519531,
+                0.0
+            ]
+        },
+        {
+            "title": "Go with the Flow: Dividends",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 548,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.23528289794922,
+                494.8232421875,
+                0.0
+            ]
+        },
+        {
+            "title": "Trusting Book Value",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 550,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.23528289794922,
+                719.99951171875,
+                0.0
+            ]
+        },
+        {
+            "title": "Regulation and Risk",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 551,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.23528289794922,
+                615.5296630859375,
+                0.0
+            ]
+        },
+        {
+            "title": "The Light Side of Valuation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 551,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.23528289794922,
+                304.23565673828125,
+                0.0
+            ]
+        },
+        {
+            "title": "Discounted Cash Flow Models",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 552,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.23528289794922,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Asset-Based Valuation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 570,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.23528289794922,
+                302.1187744140625,
+                0.0
+            ]
+        },
+        {
+            "title": "Relative Valuation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 571,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.23528289794922,
+                268.2356872558594,
+                0.0
+            ]
+        },
+        {
+            "title": "Conclusion",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 582,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.23528289794922,
+                657.8811645507812,
+                0.0
+            ]
+        },
+        {
+            "title": "15. Invisible Investments: Valuing Firms with Intangible Assets",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 584,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.31336212158203,
+                705.6221313476562,
+                0.0
+            ]
+        },
+        {
+            "title": "Firms with Intangible Assets",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 585,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.31336212158203,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Intangible Assets in the Overall Economy",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 585,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.31336212158203,
+                548.9032592773438,
+                0.0
+            ]
+        },
+        {
+            "title": "Characteristics of Firms with Intangible Assets",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 587,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.31336212158203,
+                663.207275390625,
+                0.0
+            ]
+        },
+        {
+            "title": "Valuation Consequences",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 590,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.31336212158203,
+                324.6082458496094,
+                0.0
+            ]
+        },
+        {
+            "title": "The Dark Side of Valuation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 592,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.31336212158203,
+                583.4105224609375,
+                0.0
+            ]
+        },
+        {
+            "title": "Intrinsic Valuation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 592,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.31336212158203,
+                428.1290588378906,
+                0.0
+            ]
+        },
+        {
+            "title": "Relative Valuation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 597,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.31336212158203,
+                597.0684204101562,
+                0.0
+            ]
+        },
+        {
+            "title": "The Light Side of Valuation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 599,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.31336212158203,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Regaining Accounting Consistency",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 599,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.31336212158203,
+                499.2994079589844,
+                0.0
+            ]
+        },
+        {
+            "title": "Dealing with Equity Options",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 618,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.31336212158203,
+                261.34686279296875,
+                0.0
+            ]
+        },
+        {
+            "title": "Debt and Cash",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 633,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.31336212158203,
+                653.8612060546875,
+                0.0
+            ]
+        },
+        {
+            "title": "The Compressed Life Cycle",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 637,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.31336212158203,
+                580.530029296875,
+                0.0
+            ]
+        },
+        {
+            "title": "Conclusion",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 642,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.31336212158203,
+                590.6025390625,
+                0.0
+            ]
+        },
+        {
+            "title": "16. Volatility Rules: Emerging-Market Companies",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 644,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.90542602539062,
+                706.98193359375,
+                0.0
+            ]
+        },
+        {
+            "title": "The Role of Emerging-Market Companies",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 644,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.90542602539062,
+                326.8539733886719,
+                0.0
+            ]
+        },
+        {
+            "title": "Emerging-Market Companies in the Global Economy",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 645,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.90542602539062,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Why Do Emerging Economies Matter?",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 645,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.90542602539062,
+                433.602294921875,
+                0.0
+            ]
+        },
+        {
+            "title": "Characteristics of Emerging-Market Companies",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 645,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.90542602539062,
+                140.04454040527344,
+                0.0
+            ]
+        },
+        {
+            "title": "The Dark Side of Valuation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 647,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.90542602539062,
+                554.0194702148438,
+                0.0
+            ]
+        },
+        {
+            "title": "Currency Mismatches",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 647,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.90542602539062,
+                428.3949279785156,
+                0.0
+            ]
+        },
+        {
+            "title": "Miscounting and Double-Counting Country Risk",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 647,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.90542602539062,
+                171.9387664794922,
+                0.0
+            ]
+        },
+        {
+            "title": "Risk Parameters",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 648,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.90542602539062,
+                186.2587890625,
+                0.0
+            ]
+        },
+        {
+            "title": "Incorporation Effect",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 650,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.90542602539062,
+                668.578857421875,
+                0.0
+            ]
+        },
+        {
+            "title": "Ignoring Missing Information",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 650,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.90542602539062,
+                432.9513244628906,
+                0.0
+            ]
+        },
+        {
+            "title": "Corporate Governance Mood Swings",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 650,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.90542602539062,
+                257.20709228515625,
+                0.0
+            ]
+        },
+        {
+            "title": "Post-Valuation Discounts",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 651,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.90542602539062,
+                653.608154296875,
+                0.0
+            ]
+        },
+        {
+            "title": "The Light Side of Valuation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 651,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.90542602539062,
+                501.9473571777344,
+                0.0
+            ]
+        },
+        {
+            "title": "Discounted Cash Flow Valuation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 651,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.90542602539062,
+                376.973876953125,
+                0.0
+            ]
+        },
+        {
+            "title": "Relative Valuation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 672,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.90542602539062,
+                391.29376220703125,
+                0.0
+            ]
+        },
+        {
+            "title": "Conclusion",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 678,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.90542602539062,
+                261.76312255859375,
+                0.0
+            ]
+        },
+        {
+            "title": "17. Going to Pieces: Disaggregated Value",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 681,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.6850357055664,
+                707.716552734375,
+                0.0
+            ]
+        },
+        {
+            "title": "Aggregation versus Disaggregation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 681,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.6850357055664,
+                439.93701171875,
+                0.0
+            ]
+        },
+        {
+            "title": "Multinational Conglomerates",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 682,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.6850357055664,
+                325.7008056640625,
+                0.0
+            ]
+        },
+        {
+            "title": "Role in the Economy",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 683,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.6850357055664,
+                643.228271484375,
+                0.0
+            ]
+        },
+        {
+            "title": "Characteristics",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 683,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.6850357055664,
+                239.1023712158203,
+                0.0
+            ]
+        },
+        {
+            "title": "Valuation Issues",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 685,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.6850357055664,
+                463.8894958496094,
+                0.0
+            ]
+        },
+        {
+            "title": "The Dark Side of Valuation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 687,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.6850357055664,
+                567.07080078125,
+                0.0
+            ]
+        },
+        {
+            "title": "Intrinsic Valuation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 687,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.6850357055664,
+                462.6614074707031,
+                0.0
+            ]
+        },
+        {
+            "title": "Relative Valuation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 689,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.6850357055664,
+                178.91294860839844,
+                0.0
+            ]
+        },
+        {
+            "title": "The Light Side of Valuation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 690,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.6850357055664,
+                415.9837341308594,
+                0.0
+            ]
+        },
+        {
+            "title": "Discounted Cash Flow Valuation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 690,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.6850357055664,
+                325.7006530761719,
+                0.0
+            ]
+        },
+        {
+            "title": "Relative Valuation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 709,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.6850357055664,
+                600.8493041992188,
+                0.0
+            ]
+        },
+        {
+            "title": "User/Subscriber/Customer Companies",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 714,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.6850357055664,
+                643.8411865234375,
+                0.0
+            ]
+        },
+        {
+            "title": "The Rise of the User",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 714,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.6850357055664,
+                454.6763000488281,
+                0.0
+            ]
+        },
+        {
+            "title": "Valuation Issues",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 715,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.6850357055664,
+                657.3543701171875,
+                0.0
+            ]
+        },
+        {
+            "title": "The Dark Side of Valuation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 716,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.6850357055664,
+                657.3525390625,
+                0.0
+            ]
+        },
+        {
+            "title": "The Light Side of Valuation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 718,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.6850357055664,
+                586.7232055664062,
+                0.0
+            ]
+        },
+        {
+            "title": "Conclusion",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 730,
+            "view_mode": "XYZ",
+            "view_pos": [
+                75.6850357055664,
+                623.572509765625,
+                0.0
+            ]
+        },
+        {
+            "title": "18. The Cynic\u2019s Corner: Value versus Price",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 732,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                705.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Value versus Price",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 732,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                360.75,
+                0.0
+            ]
+        },
+        {
+            "title": "Investing versus Trading",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 733,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                276.75,
+                0.0
+            ]
+        },
+        {
+            "title": "The Value Game versus the Pricing Game",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 734,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Investing versus Trading",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 734,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                303.75,
+                0.0
+            ]
+        },
+        {
+            "title": "The Dark Side",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 736,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                330.75,
+                0.0
+            ]
+        },
+        {
+            "title": "The Light Side",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 737,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                557.2496948242188,
+                0.0
+            ]
+        },
+        {
+            "title": "The Right Approach",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 738,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                719.999755859375,
+                0.0
+            ]
+        },
+        {
+            "title": "Job Description",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 738,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                541.499755859375,
+                0.0
+            ]
+        },
+        {
+            "title": "Cui Bono?",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 739,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "How Are You Judged?",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 739,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                501.0,
+                0.0
+            ]
+        },
+        {
+            "title": "The Dark Side",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 739,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                298.5,
+                0.0
+            ]
+        },
+        {
+            "title": "The Light Side",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 740,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                231.75,
+                0.0
+            ]
+        },
+        {
+            "title": "Categorizing Investments",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 742,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                719.99951171875,
+                0.0
+            ]
+        },
+        {
+            "title": "Cash Flow\u2013Generating Assets",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 742,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                437.99951171875,
+                0.0
+            ]
+        },
+        {
+            "title": "Commodities",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 748,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                549.75,
+                0.0
+            ]
+        },
+        {
+            "title": "Currencies",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 752,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                601.4990844726562,
+                0.0
+            ]
+        },
+        {
+            "title": "Collectibles",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 756,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                719.9990844726562,
+                0.0
+            ]
+        },
+        {
+            "title": "The Questionable Investments",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 760,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Gold (and Other Precious Metals)",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 760,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                507.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Crypto Investments",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 770,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                719.9981689453125,
+                0.0
+            ]
+        },
+        {
+            "title": "Trophy Assets",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 776,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                476.2481384277344,
+                0.0
+            ]
+        },
+        {
+            "title": "Conclusion",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 779,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                719.9981689453125,
+                0.0
+            ]
+        },
+        {
+            "title": "Part V: The Finale",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 780,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                660.0,
+                0.0
+            ]
+        },
+        {
+            "title": "19. The Jedi Way: Vanquishing the Dark Side",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 781,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                705.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Enlightening Propositions",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 781,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                412.5,
+                0.0
+            ]
+        },
+        {
+            "title": "Proposition 1: Be Steadfast on Principles, Open to New Tools, and Flexible on Estimates",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 782,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Proposition 2: Pay Heed to Markets, but Don\u2019t Let Them Determine Your Valuations",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 783,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Proposition 3: Risk Matters",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 784,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                436.4998779296875,
+                0.0
+            ]
+        },
+        {
+            "title": "Proposition 4: Growth Is Not Free and Is Not Always Value-Adding",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 786,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                355.4997863769531,
+                0.0
+            ]
+        },
+        {
+            "title": "Proposition 5: All Good Things Come to an End",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 787,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                497.9997863769531,
+                0.0
+            ]
+        },
+        {
+            "title": "Proposition 6: Watch Out for Truncation Risk",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 788,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Proposition 7: Look at the Past, but Think About the Future",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 788,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                372.75,
+                0.0
+            ]
+        },
+        {
+            "title": "Proposition 8: Draw on the Law of Large Numbers",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 790,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Proposition 9: Accept Uncertainty, and Deal with It",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 791,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                463.49951171875,
+                0.0
+            ]
+        },
+        {
+            "title": "Proposition 10: Value = Stories + Numbers",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 792,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                446.2495422363281,
+                0.0
+            ]
+        },
+        {
+            "title": "Conclusion",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 793,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                404.99951171875,
+                0.0
+            ]
+        },
+        {
+            "title": "Index",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 794,
+            "view_mode": "XYZ",
+            "view_pos": [
+                76.5,
+                699.0,
+                0.0
+            ]
+        }
+    ],
+    "pages": 878,
+    "ocr_stats": {
+        "ocr_pages": 878,
+        "ocr_failed": 0,
+        "ocr_success": 878,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 236,
+        "equations": {
+            "successful_ocr": 117,
+            "unsuccessful_ocr": 9,
+            "equations": 126
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

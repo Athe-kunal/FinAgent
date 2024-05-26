@@ -1,0 +1,199 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "The Little Book of Valuation: How to Value a Company, Pick a Stock and Profit",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Contents",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Foreword",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 12,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Introduction",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 16,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Hit the Ground Running\u2014Valuation Basics",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 22,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Chapter One: Value\u2014More Than a Number!",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 24,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Chapter Two: Power Tools of the Trade",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 34,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Chapter Three: Yes, Virginia, Every Asset Has an Intrinsic Value",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 56,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Chapter Four: It's All Relative!",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 80,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "From Cradle to Grave\u2014Life Cycle and Valuation",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 102,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Chapter Five: Promise Aplenty",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 104,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Chapter Six: Growing Pains",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 126,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Chapter Seven: Valuation Viagra",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 146,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Chapter Eight: Doomsday",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 164,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Breaking the Mold\u2014Special",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 182,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Chapter Nine: Bank on It",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 184,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Chapter Ten: Roller-Coaster Investing",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 206,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Chapter Eleven: Invisible Value",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 224,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Conclusion: Rules for the Road",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 246,
+            "view_mode": "Fit",
+            "view_pos": []
+        }
+    ],
+    "pages": 252,
+    "ocr_stats": {
+        "ocr_pages": 252,
+        "ocr_failed": 16,
+        "ocr_success": 236,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 29,
+        "equations": {
+            "successful_ocr": 79,
+            "unsuccessful_ocr": 4,
+            "equations": 83
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

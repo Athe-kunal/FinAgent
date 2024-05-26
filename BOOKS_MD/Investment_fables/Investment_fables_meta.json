@@ -1,0 +1,249 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Cover",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                800.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Preface",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                800.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Chapter 1",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                800.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Chapter 2",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                800.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Chapter 3",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 47,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                800.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Chapter 4",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 78,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                800.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Chapter 5",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 103,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                800.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Chapter 6",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 131,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                800.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Chapter 7",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 159,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                800.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Chapter 8",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 188,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                800.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Chapter 9",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 213,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                800.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Chapter 10",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 252,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                800.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Chapter 11",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 284,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                800.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Chapter 12",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 313,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                800.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Chapter 13",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 349,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                800.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Chapter 14",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 380,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                800.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Chapter 15",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 416,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                800.0,
+                0.0
+            ]
+        }
+    ],
+    "pages": 421,
+    "ocr_stats": {
+        "ocr_pages": 421,
+        "ocr_failed": 0,
+        "ocr_success": 421,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 112,
+        "equations": {
+            "successful_ocr": 9,
+            "unsuccessful_ocr": 2,
+            "equations": 11
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

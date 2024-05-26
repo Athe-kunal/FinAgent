@@ -1,0 +1,288 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Contents",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 5,
+            "view_mode": "XYZ",
+            "view_pos": [
+                170.8040008544922,
+                515.2160034179688,
+                0.0
+            ]
+        },
+        {
+            "title": "Preface",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                178.4619903564453,
+                515.2160034179688,
+                0.0
+            ]
+        },
+        {
+            "title": "1 A Tale of Two Tribes",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                139.63900756835938,
+                513.552001953125,
+                0.0
+            ]
+        },
+        {
+            "title": "2 Tell Me a Story",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 20,
+            "view_mode": "XYZ",
+            "view_pos": [
+                162.84500122070312,
+                513.552001953125,
+                0.0
+            ]
+        },
+        {
+            "title": "3 The Elements of Storytelling",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 34,
+            "view_mode": "XYZ",
+            "view_pos": [
+                115.11000061035156,
+                513.552001953125,
+                0.0
+            ]
+        },
+        {
+            "title": "4 The Power of Numbers",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 46,
+            "view_mode": "XYZ",
+            "view_pos": [
+                133.9550018310547,
+                513.552001953125,
+                0.0
+            ]
+        },
+        {
+            "title": "5 Number-Crunching Tools",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 62,
+            "view_mode": "XYZ",
+            "view_pos": [
+                123.23099517822266,
+                513.552001953125,
+                0.0
+            ]
+        },
+        {
+            "title": "6 Building a Narrative",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 80,
+            "view_mode": "XYZ",
+            "view_pos": [
+                143.9429931640625,
+                513.552001953125,
+                0.0
+            ]
+        },
+        {
+            "title": "7 Test-Driving a Narrative",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 102,
+            "view_mode": "XYZ",
+            "view_pos": [
+                129.18301391601562,
+                513.552001953125,
+                0.0
+            ]
+        },
+        {
+            "title": "8 From Narratives to Numbers",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 120,
+            "view_mode": "XYZ",
+            "view_pos": [
+                112.84200286865234,
+                513.552001953125,
+                0.0
+            ]
+        },
+        {
+            "title": "9 Numbers to Value",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 138,
+            "view_mode": "XYZ",
+            "view_pos": [
+                151.77301025390625,
+                513.552001953125,
+                0.0
+            ]
+        },
+        {
+            "title": "10 Improving And Modifying Your Narrative\u2014the Feedback Loop",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 161,
+            "view_mode": "XYZ",
+            "view_pos": [
+                101.14399719238281,
+                513.552001953125,
+                0.0
+            ]
+        },
+        {
+            "title": "11 Narrative Alterations\u2014The Real World Intrudes",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 177,
+            "view_mode": "XYZ",
+            "view_pos": [
+                130.4239959716797,
+                513.552001953125,
+                0.0
+            ]
+        },
+        {
+            "title": "12 News and Narratives",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 194,
+            "view_mode": "XYZ",
+            "view_pos": [
+                142.22300720214844,
+                513.552001953125,
+                0.0
+            ]
+        },
+        {
+            "title": "13 Go Big\u2014The Macro Story",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 215,
+            "view_mode": "XYZ",
+            "view_pos": [
+                120.86199951171875,
+                513.552001953125,
+                0.0
+            ]
+        },
+        {
+            "title": "14 The Corporate Life Cycle",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 237,
+            "view_mode": "XYZ",
+            "view_pos": [
+                124.1209945678711,
+                513.552001953125,
+                0.0
+            ]
+        },
+        {
+            "title": "15 The Managerial Challenge",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 257,
+            "view_mode": "XYZ",
+            "view_pos": [
+                120.17599487304688,
+                513.552001953125,
+                0.0
+            ]
+        },
+        {
+            "title": "16 The Endgame",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 273,
+            "view_mode": "XYZ",
+            "view_pos": [
+                165.08200073242188,
+                513.552001953125,
+                0.0
+            ]
+        },
+        {
+            "title": "notes",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 277,
+            "view_mode": "XYZ",
+            "view_pos": [
+                188.15501403808594,
+                516.052001953125,
+                0.0
+            ]
+        },
+        {
+            "title": "index",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 281,
+            "view_mode": "XYZ",
+            "view_pos": [
+                188.6590118408203,
+                516.052001953125,
+                0.0
+            ]
+        }
+    ],
+    "pages": 295,
+    "ocr_stats": {
+        "ocr_pages": 295,
+        "ocr_failed": 2,
+        "ocr_success": 293,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 64,
+        "equations": {
+            "successful_ocr": 4,
+            "unsuccessful_ocr": 0,
+            "equations": 4
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}
