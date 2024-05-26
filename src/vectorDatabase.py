@@ -14,6 +14,7 @@ import torch
 from qdrant_client import models, QdrantClient
 from qdrant_client.models import VectorParams, Distance
 import openai
+
 # from openai. import OpenAI
 # from qdrant_client.local import
 import os
@@ -23,6 +24,7 @@ from tenacity import RetryError
 from dotenv import load_dotenv
 
 load_dotenv(".env")
+
 
 def clean_speakers(speaker):
     speaker = re.sub("\n", "", speaker)

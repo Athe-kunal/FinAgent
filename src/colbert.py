@@ -9,7 +9,10 @@ from src.config import *
 import os
 from functools import lru_cache
 import torch
-from langchain.text_splitter import CharacterTextSplitter,RecursiveCharacterTextSplitter
+from langchain.text_splitter import (
+    CharacterTextSplitter,
+    RecursiveCharacterTextSplitter,
+)
 
 os.environ["COLBERT_LOAD_TORCH_EXTENSION_VERBOSE"] = "True"
 
@@ -83,9 +86,11 @@ def build_index_all(ticker, year):
         sentences.append(doc.page_content)
         if "quarter" in doc_metadata:
             # quarter_forms_dict[doc_metadata["quarter"]].append((idx, doc_metadata))
-            quarter_forms_dict[doc_metadata["quarter"]].update({str(idx):doc_metadata})
+            quarter_forms_dict[doc_metadata["quarter"]].update({str(idx): doc_metadata})
         elif "filing_type" in doc_metadata:
-            quarter_forms_dict[doc_metadata["filing_type"]].update({str(idx):doc_metadata})
+            quarter_forms_dict[doc_metadata["filing_type"]].update(
+                {str(idx): doc_metadata}
+            )
 
     nbits = NBITS  # encode each dimension with 2 bits
     doc_maxlen = DOC_MAXLEN  # truncate passages at 300 tokens
@@ -127,36 +132,42 @@ def query_data(query, name, searcher_dict):
 def query_data_all(query: str, searcher, quarter_or_form_name: str, quarter_forms_dict):
     # relevant_ids = torch.tensor(quarter_forms_dict[quarter_or_form_name])
     required_quarter_form_dict = quarter_forms_dict[quarter_or_form_name]
-    relevant_ids = torch.tensor([int(i) for i in required_quarter_form_dict.keys()]).to("cuda:0")
+    relevant_ids = torch.tensor([int(i) for i in required_quarter_form_dict.keys()]).to(
+        "cuda:0"
+    )
     # print(relevant_ids.dtype,relevant_ids)
     results = searcher.search(
         query,
         k=COLBERT_RETURN_LIMIT,
         filter_fn=lambda pids: torch.tensor(
-            [pid for pid in pids if pid in relevant_ids],dtype=torch.int32).to("cuda:0"))
+            [pid for pid in pids if pid in relevant_ids], dtype=torch.int32
+        ).to("cuda:0"),
+    )
 
     relevant_docs = ""
     if quarter_or_form_name.startswith("Q"):
-      speaker_dict = {}
-      print(*results)
-      for passage_id, _, _ in zip(*results):
-        metadata = required_quarter_form_dict[str(passage_id)]
-        speaker = metadata['speaker']
-        if speaker not in speaker_dict: speaker_dict[speaker]=""
-        speaker_dict[speaker]+=searcher.collection[passage_id]
-      for speaker,text in speaker_dict.items():
-        relevant_docs+=speaker+": "
-        relevant_docs+=text + "\n\n"
+        speaker_dict = {}
+        print(*results)
+        for passage_id, _, _ in zip(*results):
+            metadata = required_quarter_form_dict[str(passage_id)]
+            speaker = metadata["speaker"]
+            if speaker not in speaker_dict:
+                speaker_dict[speaker] = ""
+            speaker_dict[speaker] += searcher.collection[passage_id]
+        for speaker, text in speaker_dict.items():
+            relevant_docs += speaker + ": "
+            relevant_docs += text + "\n\n"
     elif quarter_or_form_name.startswith("10"):
-      section_dict = {}
-    #   print(*results)
-      for passage_id, _, _ in zip(*results):
-        print(passage_id,searcher.collection[passage_id])
-        metadata = required_quarter_form_dict[str(passage_id)]
-        section = metadata['sectionName']
-        if section not in section_dict: section_dict[section]=""
-        section_dict[section]+=searcher.collection[passage_id]
-      for section,text in section_dict.items():
-        relevant_docs+=section+": "
-        relevant_docs+=text + "\n\n"
+        section_dict = {}
+        #   print(*results)
+        for passage_id, _, _ in zip(*results):
+            print(passage_id, searcher.collection[passage_id])
+            metadata = required_quarter_form_dict[str(passage_id)]
+            section = metadata["sectionName"]
+            if section not in section_dict:
+                section_dict[section] = ""
+            section_dict[section] += searcher.collection[passage_id]
+        for section, text in section_dict.items():
+            relevant_docs += section + ": "
+            relevant_docs += text + "\n\n"
     return relevant_docs

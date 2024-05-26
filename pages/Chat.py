@@ -1,11 +1,11 @@
 from streamlit_feedback import streamlit_feedback
 import streamlit as st
-from dotenv import load_dotenv,find_dotenv
+from dotenv import load_dotenv, find_dotenv
 import openai
 import os
 import re
 
-load_dotenv(find_dotenv(),override=True)
+load_dotenv(find_dotenv(), override=True)
 
 openai.api_key = os.environ["OPENAI_API_KEY"]
 ticker = st.session_state["ticker"]
@@ -15,7 +15,7 @@ st.title(f"{ticker}-{year}")
 
 
 def generate_response(input_text):
-    res = financial_docs_crew.kickoff({"question":input_text})
+    res = financial_docs_crew.kickoff({"question": input_text})
     return res
 
 
