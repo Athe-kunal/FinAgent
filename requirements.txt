@@ -22,3 +22,4 @@ unstructured==0.8.1
 uvicorn
 streamlit-feedback==0.1.3
 crewai==0.30.11
+chromadb==0.4.24
