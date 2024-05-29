@@ -3,18 +3,15 @@ import re
 from langchain.schema import Document
 from src.config import *
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from qdrant_client import QdrantClient
-from qdrant_client.models import VectorParams, Distance
-from sentence_transformers import SentenceTransformer
-import torch
-from qdrant_client import models, QdrantClient
-from qdrant_client.models import (
-    VectorParams,
-    Distance,
-)
+import pandas as pd
+from tqdm.notebook import tqdm
 from src.secData import sec_main
 from tenacity import RetryError
-
+from langchain_community.embeddings.openai import OpenAIEmbeddings
+from langchain_community.embeddings.sentence_transformer import SentenceTransformerEmbeddings
+from dotenv import load_dotenv,find_dotenv
+from langchain_chroma import Chroma
+import os
 
 def clean_speakers(speaker):
     speaker = re.sub("\n", "", speaker)
@@ -122,8 +119,7 @@ def get_all_docs(ticker: str, year: int):
         speakers_list_4,
     )
 
-
-def create_database(ticker: str, year: int):
+def create_database(ticker: str, year: int,embed_type:str="openai",db_path:str="./sec_calls_chromadb"):
     """Build the database to query from it
 
     Args:
@@ -131,6 +127,7 @@ def create_database(ticker: str, year: int):
         ticker (str): The ticker of the company
         year (int): The year of the earnings call
     """
+    collection_name = f"{ticker}_{year}_{embed_type}"
     (
         docs,
         sec_form_names,
@@ -147,45 +144,22 @@ def create_database(ticker: str, year: int):
         # is_separator_regex = False,
     )
     split_docs = text_splitter.split_documents(docs)
-    # print(split_docs_qdrant)
-    # return
-    split_docs_qdrant = []
-    for doc in split_docs:
-        unrolled_dict = {}
-        unrolled_dict["text"] = doc.page_content
-        for k, v in doc.metadata.items():
-            unrolled_dict[k] = v
-
-        split_docs_qdrant.append(unrolled_dict)
-    qdrant_client = QdrantClient("http://localhost:6333")
-    # qdrant_client = QdrantClient(path=f"sec-earnings-call/{ticker}-{year}-db")
-
-    device = "cuda" if torch.cuda.is_available() else "cpu"
-
-    encoder = SentenceTransformer(
-        ENCODER_NAME, device=device, trust_remote_code=True
-    )  # or device="cpu" if you don't have a GPU
-    # openai_client = openai.Client(api_key=os.environ["OPENAI_API_KEY"])
-    qdrant_client.recreate_collection(
-        collection_name=COLLECTION_NAME,
-        vectors_config=VectorParams(
-            size=encoder.get_sentence_embedding_dimension(), distance=Distance.COSINE
-        ),
-    )
-
-    qdrant_client.upload_records(
-        collection_name=COLLECTION_NAME,
-        records=[
-            models.Record(
-                id=idx, vector=encoder.encode(doc["text"]).tolist(), payload=doc
-            )
-            for idx, doc in enumerate(split_docs_qdrant)
-        ],
-    )
+    if embed_type == "openai":
+        load_dotenv(find_dotenv(),override=True)
+        emb_fn = OpenAIEmbeddings(model="text-embedding-3-small",api_key=os.environ['OPENAI_API_KEY'])
+    elif embed_type == "sentence_transformer":
+        emb_fn = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
+    
+    if os.path.exists(os.path.join(db_path,collection_name)):
+        try:
+            chromadb = Chroma(persist_directory=db_path,embedding_function=emb_fn,collection_name=collection_name)
+        except:
+            chromadb = Chroma.from_documents(split_docs, emb_fn, persist_directory=db_path)
+    else:
+        chromadb = Chroma.from_documents(split_docs, emb_fn, persist_directory=db_path)
 
     return (
-        qdrant_client,
-        encoder,
+        chromadb,
         speakers_list_1,
         speakers_list_2,
         speakers_list_3,

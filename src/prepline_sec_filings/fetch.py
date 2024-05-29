@@ -29,8 +29,11 @@ def get_filing(
     """Fetches the specified filing from the SEC EDGAR Archives. Conforms to the rate
     limits specified on the SEC website.
     ref: https://www.sec.gov/os/accessing-edgar-data"""
-    session = _get_session(company, email)
-    return _get_filing(session, cik, accession_number)
+    try:
+        session = _get_session(company, email)
+        return _get_filing(session, cik, accession_number)
+    except:
+        return ""
 
 
 @sleep_and_retry

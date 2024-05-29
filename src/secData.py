@@ -58,20 +58,21 @@ def sec_main(
             form_lists.append([no_dashes_acc_num, form_name, filing_date, report_date])
             sec_form_names.append(form_name)
     acc_nums_list = [fl[0] for fl in form_lists]
+
     get_filing_partial = partial(
         get_filing,
         cik=rgld_cik,
         company="Unstructured Technologies",
         email="support@unstructured.io",
     )
-
     sec_extractor = SECExtractor(ticker=ticker)
     print("Started Scraping")
     with concurrent.futures.ThreadPoolExecutor(max_workers=4) as executor:
         results = executor.map(get_filing_partial, acc_nums_list)
     results_texts = []
     for res in results:
-        results_texts.append(res)
+        if res!="":
+            results_texts.append(res)
     assert len(results_texts) == len(
         acc_nums_list
     ), f"The scraped text {len(results_texts)} is not matching with accession number texts {len(acc_nums_list)}"
