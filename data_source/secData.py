@@ -1,11 +1,11 @@
 from typing import List
 import re
-from src.sec_filings import SECExtractor
+from data_source.sec_filings import SECExtractor
 import concurrent.futures
 from functools import partial
-from src.prepline_sec_filings.fetch import get_cik_by_ticker
+from data_source.prepline_sec_filings.fetch import get_cik_by_ticker
 import requests
-from src.prepline_sec_filings.fetch import get_filing
+from data_source.prepline_sec_filings.fetch import get_filing
 import pandas as pd
 from datetime import datetime
 
@@ -17,7 +17,7 @@ def sec_main(
     include_amends=True,
 ):
     cik = get_cik_by_ticker(ticker)
-    rgld_cik = int(cik.strip("0"))
+    rgld_cik = int(cik.lstrip("0"))
 
     forms = []
     if include_amends:
@@ -73,6 +73,13 @@ def sec_main(
     for res in results:
         if res!="":
             results_texts.append(res)
+    # results_texts = []
+    # for acc in acc_nums_list:
+    #     try:
+    #         results_texts.append(get_filing_partial(acc))
+    #     except Exception as e:
+    #         print(e)
+    #         results_texts.append("")
     assert len(results_texts) == len(
         acc_nums_list
     ), f"The scraped text {len(results_texts)} is not matching with accession number texts {len(acc_nums_list)}"

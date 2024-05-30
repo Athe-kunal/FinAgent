@@ -26,7 +26,7 @@ from unstructured.documents.html import HTMLDocument
 from unstructured.nlp.partition import is_possible_title
 
 # from src.prepline_sec_filings.title import is_possible_title
-from src.prepline_sec_filings.sections import SECSection
+from data_source.prepline_sec_filings.sections import SECSection
 
 
 VALID_FILING_TYPES: Final[List[str]] = [

@@ -1,18 +1,19 @@
-from src.utils import get_earnings_transcript
+from data_source.utils import get_earnings_transcript
 import re
 from langchain.schema import Document
-from src.config import *
+from data_source.config import *
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 import pandas as pd
 from tqdm.notebook import tqdm
-from src.secData import sec_main
+from data_source.secData import sec_main
 from tenacity import RetryError
 from langchain_community.embeddings.openai import OpenAIEmbeddings
 from langchain_community.embeddings.sentence_transformer import SentenceTransformerEmbeddings
 from dotenv import load_dotenv,find_dotenv
 from langchain_chroma import Chroma
+import chromadb
 import os
-
+import json
 def clean_speakers(speaker):
     speaker = re.sub("\n", "", speaker)
     speaker = re.sub(":", "", speaker)
@@ -127,7 +128,32 @@ def create_database(ticker: str, year: int,embed_type:str="openai",db_path:str="
         ticker (str): The ticker of the company
         year (int): The year of the earnings call
     """
-    collection_name = f"{ticker}_{year}_{embed_type}"
+    os.makedirs(db_path,exist_ok=True)
+    db_name = f"{ticker}_{year}_{embed_type}"
+    db_path = os.path.join(db_path,db_name)
+    collection_name = "collection-"+db_name
+
+    if embed_type == "openai":
+        load_dotenv(find_dotenv(),override=True)
+        emb_fn = OpenAIEmbeddings(model="text-embedding-3-small",api_key=os.environ['OPENAI_API_KEY'])
+    elif embed_type == "sentence_transformer":
+        emb_fn = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
+
+    if os.path.exists(db_path):
+        persistent_client = chromadb.PersistentClient(path=db_path)
+        langchainchromadb = Chroma(client=persistent_client,embedding_function=emb_fn,collection_name=collection_name,create_collection_if_not_exists=False)
+        metadatafile = open(os.path.join(db_path,"metadata.json"))
+        metadata = json.load(metadatafile)
+        return (
+            langchainchromadb,
+            metadata['speakers_list_1'],
+            metadata['speakers_list_2'],
+            metadata['speakers_list_3'],
+            metadata['speakers_list_4'],
+            metadata['sec_form_names'],
+            metadata['earnings_call_quarter_vals'],
+        )
+    os.makedirs(db_path,exist_ok=True)
     (
         docs,
         sec_form_names,
@@ -144,22 +170,24 @@ def create_database(ticker: str, year: int,embed_type:str="openai",db_path:str="
         # is_separator_regex = False,
     )
     split_docs = text_splitter.split_documents(docs)
-    if embed_type == "openai":
-        load_dotenv(find_dotenv(),override=True)
-        emb_fn = OpenAIEmbeddings(model="text-embedding-3-small",api_key=os.environ['OPENAI_API_KEY'])
-    elif embed_type == "sentence_transformer":
-        emb_fn = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
     
-    if os.path.exists(os.path.join(db_path,collection_name)):
-        try:
-            chromadb = Chroma(persist_directory=db_path,embedding_function=emb_fn,collection_name=collection_name)
-        except:
-            chromadb = Chroma.from_documents(split_docs, emb_fn, persist_directory=db_path)
-    else:
-        chromadb = Chroma.from_documents(split_docs, emb_fn, persist_directory=db_path)
+    
+    langchainchromadb = Chroma.from_documents(split_docs, emb_fn, persist_directory=db_path,collection_name=collection_name)
+
+    json_object = {
+      "speakers_list_1":speakers_list_1,  
+      "speakers_list_2":speakers_list_2,  
+      "speakers_list_3":speakers_list_3,  
+      "speakers_list_4":speakers_list_4,  
+      "sec_form_names":sec_form_names,  
+      "earnings_call_quarter_vals":earnings_call_quarter_vals,
+    }
+
+    with open(os.path.join(db_path,"metadata.json"),'w') as jsonfile:
+        json.dump(json_object,jsonfile)
 
     return (
-        chromadb,
+        langchainchromadb,
         speakers_list_1,
         speakers_list_2,
         speakers_list_3,

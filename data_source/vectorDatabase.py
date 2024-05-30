@@ -1,7 +1,7 @@
-from src.utils import get_earnings_transcript
+from data_source.utils import get_earnings_transcript
 import re
 from langchain.schema import Document
-from src.config import *
+from data_source.config import *
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from qdrant_client import QdrantClient
 from qdrant_client.models import VectorParams, Distance
@@ -19,7 +19,7 @@ import openai
 # from qdrant_client.local import
 import os
 import json
-from src.secData import sec_main
+from data_source.secData import sec_main
 from tenacity import RetryError
 from dotenv import load_dotenv
 

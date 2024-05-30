@@ -8,7 +8,7 @@ from qdrant_client.models import (
     Filter,
     Match,
 )
-from src.config import *
+from data_source.config import *
 from collections import defaultdict
 
 

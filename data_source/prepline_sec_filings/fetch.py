@@ -16,7 +16,7 @@ import webbrowser
 
 from ratelimit import limits, sleep_and_retry
 
-from src.prepline_sec_filings.sec_document import VALID_FILING_TYPES
+from data_source.prepline_sec_filings.sec_document import VALID_FILING_TYPES
 
 SEC_ARCHIVE_URL: Final[str] = "https://www.sec.gov/Archives/edgar/data"
 SEC_SEARCH_URL: Final[str] = "http://www.sec.gov/cgi-bin/browse-edgar"
@@ -29,11 +29,9 @@ def get_filing(
     """Fetches the specified filing from the SEC EDGAR Archives. Conforms to the rate
     limits specified on the SEC website.
     ref: https://www.sec.gov/os/accessing-edgar-data"""
-    try:
-        session = _get_session(company, email)
-        return _get_filing(session, cik, accession_number)
-    except:
-        return ""
+    
+    session = _get_session(company, email)
+    return _get_filing(session, cik, accession_number)
 
 
 @sleep_and_retry

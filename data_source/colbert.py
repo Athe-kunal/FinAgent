@@ -1,11 +1,11 @@
-from src.vectorDatabase import get_all_docs
+from data_source.vectorDatabase import get_all_docs
 from collections import defaultdict
 import concurrent.futures
 import colbert
 from colbert import Indexer, Searcher
 from colbert.infra import Run, RunConfig, ColBERTConfig
 from colbert.data import Queries, Collection
-from src.config import *
+from data_source.config import *
 import os
 from functools import lru_cache
 import torch
