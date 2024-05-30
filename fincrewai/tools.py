@@ -2,7 +2,7 @@ from data_source.vectorDatabaseDocker import create_database
 from data_source.queryDatabase import query_database_earnings_call, query_database_sec
 from functools import partial
 from crewai_tools import tool
-from books_db import load_database
+from FinCrewAI.books_db import load_database
 
 
 def build_database_and_query(ticker: str, year: str):
