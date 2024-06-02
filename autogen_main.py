@@ -181,7 +181,7 @@ if ticker != "" and year != "" and submit_button:
     system_message="Analyze the response from user proxy and decide whether the suggested database is suitable "
     ". Answer in simple yes or no",
     llm_config=False,
-    is_termination_msg=lambda msg: "exit" in msg.get("content",""),
+    # is_termination_msg=lambda msg: "exit" in msg.get("content",""),
     default_auto_reply="Please select the right database.",
     human_input_mode="ALWAYS",
 )
